@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Aethos Solutions — Automatizare și Dezvoltare Web",
+    "description": "Automatizăm captarea și urmărirea clienților pentru IMM-uri. Fără complexitate, rezultate reale. Operăm în Spania și România."
+  },
+  "nav": {
+    "services": "Servicii",
+    "sectors": "Sectoare",
+    "process": "Proces",
+    "contact": "Contact",
+    "cta": "Contactează-ne"
+  },
+  "hero": {
+    "eyebrow": "Automatizare pentru afaceri locale",
+    "h1Line1": "Afacerea ta,",
+    "h1Line2": "complet",
+    "h1Accent": "digitalizată.",
+    "subtitle": "Automatizăm captarea, urmărirea și conversia clienților pentru ca tu să te poți concentra pe ceea ce contează cu adevărat. Fără complexitate, cu rezultate reale.",
+    "cta1": "Solicită consultanță gratuită",
+    "cta2": "Vezi cum funcționează",
+    "tagline": "Operăm în <strong>Spania</strong> și <strong>România</strong> · Consultanță gratuită fără obligații",
+    "dashboard": {
+      "title": "Tablou de bord",
+      "recentLeads": "Lead-uri recente",
+      "metricLeadsMonth": "Lead-uri luna aceasta",
+      "metricConverted": "Convertite",
+      "metricConvRate": "Rată conv.",
+      "metricAvgResponse": "Răspuns med.",
+      "sidebarDashboard": "Tablou de bord",
+      "sidebarLeads": "Lead-uri",
+      "sidebarCrm": "CRM",
+      "sidebarReports": "Rapoarte",
+      "sidebarConfig": "Setări",
+      "statusNew": "Nou",
+      "statusInProgress": "În lucru",
+      "statusWon": "Câștigat"
+    }
+  },
+  "stats": {
+    "items": [
+      { "number": "+40h", "label": "economii lunare" },
+      { "number": "<2 min", "label": "răspuns mediu" },
+      { "number": "3x", "label": "mai multă conversie" },
+      { "number": "0", "label": "lead-uri pierdute" }
+    ]
+  },
+  "problems": {
+    "sectionLabel": "Problema",
+    "h2": "Recunoști aceste probleme?",
+    "body": "Majoritatea afacerilor mici pierd clienți și timp în fiecare zi din lipsă de sisteme automatizate. Nu e lipsă de efort. E lipsă de instrumentele potrivite.",
+    "items": [
+      { "num": "01", "title": "Lead-uri fără răspuns", "desc": "Formulare care ajung și nimeni nu le urmărește. Clienți potențiali care se pierd fără să știi." },
+      { "num": "02", "title": "Urmărire inexistentă", "desc": "Fără un sistem, fiecare follow-up depinde de cineva care să-și amintească. Și nimeni nu-și amintește mereu." },
+      { "num": "03", "title": "Muncă manuală care nu scalează", "desc": "Copiat date, trimis emailuri unul câte unul, actualizat foi de calcul. Ore pierdute în fiecare săptămână." },
+      { "num": "04", "title": "Fără vizibilitate asupra afacerii", "desc": "Nu știi câte lead-uri ai, de unde vin sau care este rata ta reală de conversie." }
+    ]
+  },
+  "sectors": {
+    "label": "Lucrăm cu",
+    "items": ["Imobiliare", "Clinici", "Renovări", "Ateliere auto", "Companii B2B", "Restaurante"]
+  },
+  "services": {
+    "sectionLabel": "Servicii",
+    "h2": "Ce construim pentru tine",
+    "body": "Fiecare instrument este conceput să lucreze pentru tine în timp ce tu te concentrezi pe ceea ce faci cel mai bine.",
+    "items": [
+      { "title": "Dezvoltare web", "desc": "Site-uri profesionale și rapide concepute pentru a converti vizitatorii în clienți. SEO și optimizare mobilă incluse." },
+      { "title": "Automatizarea proceselor", "desc": "Fluxuri automate care gestionează sarcini repetitive: răspunsuri, notificări, actualizări de stare." },
+      { "title": "Gestionare clienți (CRM)", "desc": "Sistem centralizat pentru a urmări fiecare lead și client de la primul contact până la încheierea tranzacției." },
+      { "title": "WhatsApp & email automat", "desc": "Răspunsuri și urmăriri automate prin WhatsApp și email. Clienții tăi primesc un răspuns în câteva minute." },
+      { "title": "Tablouri de bord în timp real", "desc": "Vizualizează starea afacerii tale în orice moment. Lead-uri, vânzări și conversii, totul într-un panou clar." },
+      { "title": "Instrumente interne", "desc": "Aplicații și panouri personalizate pentru ca echipa ta să lucreze mai repede, cu mai puține erori și mai multă vizibilitate." }
+    ]
+  },
+  "workflow": {
+    "sectionLabel": "Cum funcționează",
+    "h2": "De la lead la client, automat",
+    "body": "Un flux complet și automatizat care funcționează 24 de ore pe zi fără să ridici un deget.",
+    "steps": [
+      { "num": "01", "title": "Formular", "desc": "Clientul completează formularul de pe site-ul sau pagina ta de destinație." },
+      { "num": "02", "title": "Automatizare", "desc": "Sistemul capturează, validează și clasifică lead-ul imediat." },
+      { "num": "03", "title": "Contact", "desc": "Răspuns automat prin WhatsApp sau email în mai puțin de 2 minute." },
+      { "num": "04", "title": "CRM", "desc": "Lead-ul intră direct în CRM-ul tău, organizat și gata de gestionat." },
+      { "num": "05", "title": "Urmărire", "desc": "Remindere automate și secvențe până la închiderea vânzării." }
+    ],
+    "results": [
+      { "title": "Răspuns în < 2 min", "desc": "Nimeni nu așteaptă. Nimeni nu pleacă." },
+      { "title": "0 lead-uri pierdute", "desc": "Totul înregistrat și urmărit." },
+      { "title": "CRM mereu actualizat", "desc": "Fără muncă manuală suplimentară." },
+      { "title": "Decizii bazate pe date", "desc": "Vizibilitate totală asupra afacerii." }
+    ]
+  },
+  "beforeAfter": {
+    "sectionLabel": "Transformare",
+    "h2": "Înainte și după Aethos",
+    "body": "Diferența reală pe care o face să ai sistemul potrivit lucrând pentru afacerea ta.",
+    "colSituation": "Situație",
+    "colBefore": "Înainte",
+    "colAfter": "Cu Aethos",
+    "rows": [
+      { "aspect": "Răspuns la lead-uri", "before": "Ore sau niciodată", "after": "Mai puțin de 2 minute" },
+      { "aspect": "Urmărire", "before": "Manuală și uitată", "after": "Automată și punctuală" },
+      { "aspect": "Gestionare clienți", "before": "Foi Excel", "after": "CRM digital în timp real" },
+      { "aspect": "Vizibilitate", "before": "Niciuna", "after": "Tablou de bord cu toate datele" },
+      { "aspect": "Rată de conversie", "before": "Scăzută și stagnantă", "after": "De până la 3x mai mulți clienți" }
+    ],
+    "svgBefore": "ÎNAINTE",
+    "svgAfter": "DUPĂ",
+    "svgNoSystem": "Fără sistem",
+    "svgLeadsLost": "Lead-uri pierdute",
+    "svgAllAuto": "Totul automat",
+    "svgZeroLost": "0 lead-uri pierdute",
+    "svgFormLabel": "Formular web",
+    "svgAutoLabel": "Răspuns auto.",
+    "svgAutoSub": "în < 2 min",
+    "svgCrmLabel": "CRM actualizat ✓"
+  },
+  "cta": {
+    "sectionLabel": "Pregătit să crești?",
+    "h2Line1": "Începe să automatizezi",
+    "h2Line2": "afacerea ta astăzi.",
+    "body": "Consultanță gratuită. Fără angajamente, fără jargon tehnic. Îți explicăm exact ce putem face pentru afacerea ta.",
+    "cta1": "Solicită consultanță gratuită",
+    "cta2": "Vezi serviciile"
+  },
+  "footer": {
+    "tagline": "Automatizare și dezvoltare web pentru IMM-uri și afaceri locale. Less complexity, more real results.",
+    "location": "Spania · România",
+    "servicesHeader": "Servicii",
+    "companyHeader": "Companie",
+    "serviceLinks": ["Dezvoltare web", "Automatizare", "CRM", "WhatsApp & email", "Tablouri de bord"],
+    "linkProcess": "Proces",
+    "linkSectors": "Sectoare",
+    "linkContact": "Contact",
+    "copyright": "© {year} Aethos Solutions. Toate drepturile rezervate.",
+    "madeWith": "Realizat cu grijă în Spania & România"
+  }
+}

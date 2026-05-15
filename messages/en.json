@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Aethos Solutions — Automation & Web Development",
+    "description": "We automate lead capture and follow-up for small businesses. No complexity, real results. Operating in Spain and Romania."
+  },
+  "nav": {
+    "services": "Services",
+    "sectors": "Sectors",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "eyebrow": "Automation for local businesses",
+    "h1Line1": "Your business,",
+    "h1Line2": "completely",
+    "h1Accent": "digitized.",
+    "subtitle": "We automate lead capture, follow-up and conversion so you can focus on what really matters. No complexity, real results from day one.",
+    "cta1": "Request a free consultation",
+    "cta2": "See how it works",
+    "tagline": "Operating in <strong>Spain</strong> and <strong>Romania</strong> · Free consultation, no strings attached",
+    "dashboard": {
+      "title": "Dashboard",
+      "recentLeads": "Recent leads",
+      "metricLeadsMonth": "Leads this month",
+      "metricConverted": "Converted",
+      "metricConvRate": "Conv. rate",
+      "metricAvgResponse": "Avg. response",
+      "sidebarDashboard": "Dashboard",
+      "sidebarLeads": "Leads",
+      "sidebarCrm": "CRM",
+      "sidebarReports": "Reports",
+      "sidebarConfig": "Settings",
+      "statusNew": "New",
+      "statusInProgress": "In progress",
+      "statusWon": "Won"
+    }
+  },
+  "stats": {
+    "items": [
+      { "number": "+40h", "label": "monthly savings" },
+      { "number": "<2 min", "label": "average response" },
+      { "number": "3x", "label": "more conversions" },
+      { "number": "0", "label": "lost leads" }
+    ]
+  },
+  "problems": {
+    "sectionLabel": "The problem",
+    "h2": "Do you recognize these problems?",
+    "body": "Most small businesses lose clients and time every day for lack of automated systems. It's not about working harder. It's about having the right tools.",
+    "items": [
+      { "num": "01", "title": "Unanswered leads", "desc": "Forms arrive and nobody follows up. Potential clients slip away without you even noticing." },
+      { "num": "02", "title": "No follow-up system", "desc": "Without a system, every follow-up depends on someone remembering. And nobody always remembers." },
+      { "num": "03", "title": "Manual work that doesn't scale", "desc": "Copying data, sending emails one by one, updating spreadsheets. Hours lost every week." },
+      { "num": "04", "title": "No business visibility", "desc": "You don't know how many leads you have, where they come from, or what your real conversion rate is." }
+    ]
+  },
+  "sectors": {
+    "label": "We work with",
+    "items": ["Real Estate", "Clinics", "Renovations", "Workshops", "B2B Companies", "Restaurants"]
+  },
+  "services": {
+    "sectionLabel": "Services",
+    "h2": "What we build for you",
+    "body": "Every tool is designed to work for you while you focus on what you do best.",
+    "items": [
+      { "title": "Web development", "desc": "Professional, fast websites designed to convert visitors into clients. SEO and mobile optimization included." },
+      { "title": "Process automation", "desc": "Automatic workflows that handle repetitive tasks: replies, notifications, status updates." },
+      { "title": "Customer management (CRM)", "desc": "Centralized system to track every lead and client from first contact to closing the deal." },
+      { "title": "Automatic WhatsApp & email", "desc": "Automatic replies and follow-ups via WhatsApp and email. Your clients get a response in minutes." },
+      { "title": "Real-time dashboards", "desc": "See your business status at any time. Leads, sales and conversions, all in one clear panel." },
+      { "title": "Internal tools", "desc": "Custom apps and panels so your team works faster, with fewer errors and more visibility." }
+    ]
+  },
+  "workflow": {
+    "sectionLabel": "How it works",
+    "h2": "From lead to client, automatically",
+    "body": "A complete, automated workflow that runs 24 hours a day without you lifting a finger.",
+    "steps": [
+      { "num": "01", "title": "Form", "desc": "The client fills in the form on your website or landing page." },
+      { "num": "02", "title": "Automation", "desc": "The system instantly captures, validates and classifies the lead." },
+      { "num": "03", "title": "Contact", "desc": "Automatic reply via WhatsApp or email in less than 2 minutes." },
+      { "num": "04", "title": "CRM", "desc": "The lead enters your CRM directly, organized and ready to manage." },
+      { "num": "05", "title": "Follow-up", "desc": "Automatic reminders and sequences until the deal is closed." }
+    ],
+    "results": [
+      { "title": "Response in < 2 min", "desc": "Nobody waits. Nobody leaves." },
+      { "title": "0 lost leads", "desc": "Everything recorded and tracked." },
+      { "title": "CRM always up to date", "desc": "No extra manual work." },
+      { "title": "Data-driven decisions", "desc": "Full visibility of your business." }
+    ]
+  },
+  "beforeAfter": {
+    "sectionLabel": "Transformation",
+    "h2": "Before and after Aethos",
+    "body": "The real difference that having the right system working for your business makes.",
+    "colSituation": "Situation",
+    "colBefore": "Before",
+    "colAfter": "With Aethos",
+    "rows": [
+      { "aspect": "Lead response", "before": "Hours or never", "after": "Less than 2 minutes" },
+      { "aspect": "Follow-up", "before": "Manual and forgotten", "after": "Automatic and timely" },
+      { "aspect": "Client management", "before": "Excel spreadsheets", "after": "Digital CRM in real time" },
+      { "aspect": "Visibility", "before": "None", "after": "Dashboard with all data" },
+      { "aspect": "Conversion rate", "before": "Low and stagnant", "after": "Up to 3x more clients" }
+    ],
+    "svgBefore": "BEFORE",
+    "svgAfter": "AFTER",
+    "svgNoSystem": "No system",
+    "svgLeadsLost": "Lost leads",
+    "svgAllAuto": "All automated",
+    "svgZeroLost": "0 leads lost",
+    "svgFormLabel": "Web form",
+    "svgAutoLabel": "Auto reply",
+    "svgAutoSub": "in < 2 min",
+    "svgCrmLabel": "CRM updated ✓"
+  },
+  "cta": {
+    "sectionLabel": "Ready to grow?",
+    "h2Line1": "Start automating",
+    "h2Line2": "your business today.",
+    "body": "Free consultation. No commitment, no jargon. We'll explain exactly what we can do for your business.",
+    "cta1": "Request a free consultation",
+    "cta2": "See services"
+  },
+  "footer": {
+    "tagline": "Automation and web development for small businesses and local companies. Less complexity, more real results.",
+    "location": "Spain · Romania",
+    "servicesHeader": "Services",
+    "companyHeader": "Company",
+    "serviceLinks": ["Web development", "Automation", "CRM", "WhatsApp & email", "Dashboards"],
+    "linkProcess": "Process",
+    "linkSectors": "Sectors",
+    "linkContact": "Contact",
+    "copyright": "© {year} Aethos Solutions. All rights reserved.",
+    "madeWith": "Made with care in Spain & Romania"
+  }
+}

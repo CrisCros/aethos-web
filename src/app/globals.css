@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Class-based dark mode: applies dark: variant when any ancestor has .dark */
+@custom-variant dark (&:is(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-inter);
+}
+
+body {
+  color: #1d1d1f;
+  background: #ffffff;
+  font-family: var(--font-sans, system-ui, -apple-system, sans-serif);
+}
+
+.dark body {
+  color: #f5f5f7;
+  background: #0a0a0a;
+}
