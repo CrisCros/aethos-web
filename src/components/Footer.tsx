@@ -1,68 +1,126 @@
 'use client'
 
-import { useTranslations } from 'next-intl'
-import { Link } from '@/i18n/navigation'
+import { Mail, MessageCircle } from 'lucide-react'
+
+const STUDIO_LINKS = [
+  { label: 'Services', href: '#solutions' },
+  { label: 'Work',     href: '#work' },
+  { label: 'Contact',  href: '#contact' },
+]
+
+const SERVICE_LINKS = [
+  { label: 'Web design',    href: '#solutions' },
+  { label: 'SEO & presence',href: '#solutions' },
+  { label: 'Lead capture',  href: '#solutions' },
+  { label: 'Dashboards',    href: '#solutions' },
+]
+
+const INDUSTRY_LINKS = [
+  { label: 'Clinics',      href: '#work' },
+  { label: 'Restaurants',  href: '#work' },
+  { label: 'Real estate',  href: '#work' },
+  { label: 'Construction', href: '#work' },
+]
 
 export default function Footer() {
-  const t = useTranslations('footer')
-  const serviceLinks = t.raw('serviceLinks') as string[]
-
-  const companyLinks = [
-    { label: t('linkProcess'), href: '#proceso'   as const },
-    { label: t('linkSectors'), href: '#sectores'  as const },
-    { label: t('linkContact'), href: '#contacto'  as const },
-    { label: 'hola@aethossolutions.es', href: 'mailto:hola@aethossolutions.es' as const },
-  ]
-
   return (
-    <footer className="bg-[#f5f5f7] dark:bg-[#111111] border-t border-[#d2d2d7] dark:border-[#2a2a2a]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-        <div className="grid md:grid-cols-4 gap-10 mb-12">
+    <footer
+      style={{
+        background: 'var(--bg-subtle)',
+        borderTop: '1px solid var(--border)',
+      }}
+    >
+      <div className="mx-auto px-5 py-14" style={{ maxWidth: '1240px' }}>
+        {/* Grid */}
+        <div className="grid gap-10 md:grid-cols-4 mb-12">
           {/* Brand */}
-          <div className="md:col-span-2">
-            <Link href="/" className="inline-block mb-5">
-              <span className="text-[#1d1d1f] dark:text-[#f5f5f7] font-semibold text-xl tracking-tight">
-                Aethos<span className="text-violet-600">.</span>
-              </span>
-            </Link>
-            <p className="text-[#6e6e73] dark:text-[#a1a1a6] text-sm leading-relaxed max-w-xs mb-5">
-              {t('tagline')}
+          <div className="md:col-span-1">
+            <div className="font-semibold text-xl tracking-tight mb-4" style={{ color: 'var(--fg)' }}>
+              Aethos<span style={{ color: '#7c5cff' }}>.</span>
+            </div>
+            <p className="text-sm leading-relaxed mb-5 max-w-[240px]" style={{ color: 'var(--fg-2)' }}>
+              Modern websites and smart systems for businesses that want to grow without the complexity.
             </p>
-            <p className="text-[#6e6e73] dark:text-[#a1a1a6] text-xs font-medium">
-              {t('location')}
-            </p>
+            <div className="flex flex-col gap-2.5">
+              <a
+                href="mailto:hello@aethos.studio"
+                className="inline-flex items-center gap-2 text-sm transition-colors"
+                style={{ color: 'var(--fg-2)' }}
+                onMouseEnter={(e) => { e.currentTarget.style.color = '#7c5cff' }}
+                onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-2)' }}
+              >
+                <Mail size={13} />hello@aethos.studio
+              </a>
+              <a
+                href="#contact"
+                className="inline-flex items-center gap-2 text-sm transition-colors"
+                style={{ color: 'var(--fg-2)' }}
+                onMouseEnter={(e) => { e.currentTarget.style.color = '#7c5cff' }}
+                onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-2)' }}
+              >
+                <MessageCircle size={13} />WhatsApp us
+              </a>
+            </div>
           </div>
 
-          {/* Services */}
+          {/* Studio */}
           <div>
-            <h4 className="text-xs font-semibold text-[#1d1d1f] dark:text-[#f5f5f7] uppercase tracking-wider mb-5">
-              {t('servicesHeader')}
-            </h4>
+            <div className="text-xs font-semibold uppercase tracking-wider mb-5" style={{ color: 'var(--fg)' }}>
+              Studio
+            </div>
             <ul className="flex flex-col gap-3">
-              {serviceLinks.map((item) => (
-                <li key={item}>
+              {STUDIO_LINKS.map(({ label, href }) => (
+                <li key={label}>
                   <a
-                    href="#servicios"
-                    className="text-[#6e6e73] dark:text-[#a1a1a6] hover:text-[#1d1d1f] dark:hover:text-[#f5f5f7] text-sm transition-colors"
+                    href={href}
+                    className="text-sm transition-colors"
+                    style={{ color: 'var(--fg-2)' }}
+                    onMouseEnter={(e) => { e.currentTarget.style.color = 'var(--fg)' }}
+                    onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-2)' }}
                   >
-                    {item}
+                    {label}
                   </a>
                 </li>
               ))}
             </ul>
           </div>
 
-          {/* Company */}
+          {/* Services */}
           <div>
-            <h4 className="text-xs font-semibold text-[#1d1d1f] dark:text-[#f5f5f7] uppercase tracking-wider mb-5">
-              {t('companyHeader')}
-            </h4>
+            <div className="text-xs font-semibold uppercase tracking-wider mb-5" style={{ color: 'var(--fg)' }}>
+              Services
+            </div>
             <ul className="flex flex-col gap-3">
-              {companyLinks.map(({ label, href }) => (
+              {SERVICE_LINKS.map(({ label, href }) => (
                 <li key={label}>
                   <a
                     href={href}
-                    className="text-[#6e6e73] dark:text-[#a1a1a6] hover:text-[#1d1d1f] dark:hover:text-[#f5f5f7] text-sm transition-colors break-all"
+                    className="text-sm transition-colors"
+                    style={{ color: 'var(--fg-2)' }}
+                    onMouseEnter={(e) => { e.currentTarget.style.color = 'var(--fg)' }}
+                    onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-2)' }}
+                  >
+                    {label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Industries */}
+          <div>
+            <div className="text-xs font-semibold uppercase tracking-wider mb-5" style={{ color: 'var(--fg)' }}>
+              Industries
+            </div>
+            <ul className="flex flex-col gap-3">
+              {INDUSTRY_LINKS.map(({ label, href }) => (
+                <li key={label}>
+                  <a
+                    href={href}
+                    className="text-sm transition-colors"
+                    style={{ color: 'var(--fg-2)' }}
+                    onMouseEnter={(e) => { e.currentTarget.style.color = 'var(--fg)' }}
+                    onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-2)' }}
                   >
                     {label}
                   </a>
@@ -72,13 +130,28 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-[#d2d2d7] dark:border-[#2a2a2a] pt-8 flex flex-col sm:flex-row justify-between items-center gap-3">
-          <p className="text-[#6e6e73] dark:text-[#a1a1a6] text-xs">
-            {t('copyright', { year: new Date().getFullYear() })}
-          </p>
-          <p className="text-[#6e6e73] dark:text-[#a1a1a6] text-xs">
-            {t('madeWith')}
-          </p>
+        {/* Bottom bar */}
+        <div
+          className="pt-8 flex flex-col sm:flex-row justify-between items-center gap-3"
+          style={{ borderTop: '1px solid var(--border)' }}
+        >
+          <span className="text-xs" style={{ color: 'var(--fg-3)' }}>
+            © {new Date().getFullYear()} Aethos Solutions. Made in Barcelona &amp; Bucharest.
+          </span>
+          <div className="flex items-center gap-4">
+            {['Privacy', 'Terms', 'Imprint'].map((item) => (
+              <a
+                key={item}
+                href="#"
+                className="text-xs transition-colors"
+                style={{ color: 'var(--fg-3)' }}
+                onMouseEnter={(e) => { e.currentTarget.style.color = 'var(--fg)' }}
+                onMouseLeave={(e) => { e.currentTarget.style.color = 'var(--fg-3)' }}
+              >
+                {item}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     </footer>

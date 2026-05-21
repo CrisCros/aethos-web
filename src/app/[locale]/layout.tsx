@@ -9,6 +9,7 @@ const inter = Inter({
   subsets: ['latin'],
   variable: '--font-inter',
   weight: ['300', '400', '500', '600', '700'],
+  display: 'swap',
 })
 
 export function generateStaticParams() {
@@ -41,14 +42,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={`${inter.variable} h-full`}>
-      <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `try{if(localStorage.getItem('aethos-dark')==='true')document.documentElement.classList.add('dark')}catch{}`,
-          }}
-        />
-      </head>
-      <body className="min-h-full bg-white dark:bg-[#0a0a0a]">
+      <body className="min-h-full">
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>

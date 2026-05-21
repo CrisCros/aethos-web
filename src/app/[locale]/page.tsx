@@ -1,12 +1,10 @@
 import { setRequestLocale } from 'next-intl/server'
 import Navbar from '@/components/Navbar'
 import HeroSection from '@/components/HeroSection'
-import StatsBar from '@/components/StatsBar'
 import ProblemsSection from '@/components/ProblemsSection'
-import SectorsBar from '@/components/SectorsBar'
 import ServicesGrid from '@/components/ServicesGrid'
-import WorkflowSection from '@/components/WorkflowSection'
 import BeforeAfterSection from '@/components/BeforeAfterSection'
+import FeaturedWork from '@/components/FeaturedWork'
 import CTASection from '@/components/CTASection'
 import Footer from '@/components/Footer'
 
@@ -23,12 +21,10 @@ export default async function Home({
       <Navbar />
       <main>
         <HeroSection />
-        <StatsBar />
         <ProblemsSection />
-        <SectorsBar />
         <ServicesGrid />
-        <WorkflowSection />
         <BeforeAfterSection />
+        <FeaturedWork />
         <CTASection />
       </main>
       <Footer />
