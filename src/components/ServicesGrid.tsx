@@ -1,6 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
+import { useTranslations } from 'next-intl'
 import { EASE } from '@/lib/motion'
 import { Layout, Search, MessageCircle, Zap, TrendingUp, ArrowRight, Mail, Calendar, FileText, Database } from 'lucide-react'
 import { Link } from '@/i18n/navigation'
@@ -166,6 +167,8 @@ const CELLS = [
 ] as const
 
 export default function ServicesGrid() {
+  const t = useTranslations('home.solutions')
+
   return (
     <section id="solutions" style={{ padding: 'clamp(64px,10vw,128px) 0' }}>
       <div className="mx-auto px-5" style={{ maxWidth: '1240px' }}>
@@ -178,13 +181,13 @@ export default function ServicesGrid() {
           transition={{ duration: 0.7, ease: EASE }}
         >
           <span className="inline-block text-xs font-medium uppercase tracking-widest mb-3" style={{ color: '#6a3df5' }}>
-            What we do
+            {t('eyebrow')}
           </span>
           <h2 className="font-semibold mb-4" style={{ fontSize: 'clamp(28px,3.6vw,44px)', letterSpacing: '-0.03em', lineHeight: '1.1', color: 'var(--fg)' }}>
-            Everything your business needs to look good, get found, and run smoothly.
+            {t('h2')}
           </h2>
           <p style={{ fontSize: '17px', color: 'var(--fg-2)', lineHeight: '1.55' }}>
-            No jargon. No unnecessary complexity. Just the right tools for where your business is right now.
+            {t('subtitle')}
           </p>
         </motion.div>
 
@@ -234,7 +237,7 @@ export default function ServicesGrid() {
             className="inline-flex items-center gap-2 text-sm font-medium px-5 py-2.5 rounded-xl"
             style={{ background: 'var(--bg-elevated)', color: 'var(--fg)', border: '1px solid var(--border-strong)', boxShadow: 'var(--shadow-xs)' }}
           >
-            See all services <ArrowRight size={15} />
+            {t('viewAll')} <ArrowRight size={15} />
           </Link>
         </div>
       </div>

@@ -1,138 +1,284 @@
 {
   "meta": {
-    "title": "Aethos Solutions — Automatizare și Dezvoltare Web",
-    "description": "Automatizăm captarea și urmărirea clienților pentru IMM-uri. Fără complexitate, rezultate reale. Operăm în Spania și România."
+    "title": "Aethos — Website-uri moderne și sisteme inteligente pentru afaceri în creștere",
+    "description": "Ajutăm clinici, restaurante, agenții imobiliare și IMM-uri B2B să aibă o prezență online mai profesionistă, să obțină mai mulți clienți și să economisească ore în fiecare săptămână."
   },
   "nav": {
     "services": "Servicii",
-    "sectors": "Sectoare",
-    "process": "Proces",
+    "work": "Proiecte",
+    "about": "Despre noi",
     "contact": "Contact",
-    "cta": "Contactează-ne"
+    "cta": "Începe un proiect",
+    "langEN": "English",
+    "langES": "Español",
+    "langRO": "Română",
+    "darkMode": "Mod întunecat",
+    "lightMode": "Mod luminos"
   },
-  "hero": {
-    "eyebrow": "Automatizare pentru afaceri locale",
-    "h1Line1": "Afacerea ta,",
-    "h1Line2": "complet",
-    "h1Accent": "digitalizată.",
-    "subtitle": "Automatizăm captarea, urmărirea și conversia clienților pentru ca tu să te poți concentra pe ceea ce contează cu adevărat. Fără complexitate, cu rezultate reale.",
-    "cta1": "Solicită consultanță gratuită",
-    "cta2": "Vezi cum funcționează",
-    "tagline": "Operăm în <strong>Spania</strong> și <strong>România</strong> · Consultanță gratuită fără obligații",
-    "dashboard": {
-      "title": "Tablou de bord",
-      "recentLeads": "Lead-uri recente",
-      "metricLeadsMonth": "Lead-uri luna aceasta",
-      "metricConverted": "Convertite",
-      "metricConvRate": "Rată conv.",
-      "metricAvgResponse": "Răspuns med.",
-      "sidebarDashboard": "Tablou de bord",
-      "sidebarLeads": "Lead-uri",
-      "sidebarCrm": "CRM",
-      "sidebarReports": "Rapoarte",
-      "sidebarConfig": "Setări",
-      "statusNew": "Nou",
-      "statusInProgress": "În lucru",
-      "statusWon": "Câștigat"
+  "home": {
+    "hero": {
+      "eyebrow": "Studio digital · Est. 2024",
+      "h1Before": "Website-uri moderne și sisteme inteligente pentru afaceri în",
+      "h1Accent": "creștere",
+      "h1After": ".",
+      "subtitle": "Ajutăm clinici, restaurante, agenții imobiliare și IMM-uri B2B să aibă o prezență online mai profesionistă, să obțină mai mulți clienți și să economisească ore în fiecare săptămână.",
+      "cta1": "Începe un proiect",
+      "cta2": "Vezi ce facem",
+      "trust1": "Live în 2–4 săptămâni",
+      "trust2": "Totul este al tău",
+      "trust3": "Fără blocare",
+      "builtFor": "Construit pentru",
+      "industry1": "Clinici",
+      "industry2": "Restaurante",
+      "industry3": "Imobiliare",
+      "industry4": "Construcții",
+      "industry5": "Ateliere",
+      "industry6": "IMM-uri B2B"
+    },
+    "problems": {
+      "eyebrow": "Ți se pare familiar?",
+      "h2": "Majoritatea afacerilor mici se confruntă cu aceleași probleme.",
+      "subtitle": "Niciunele dintre acestea nu sunt unice afacerii tale. Și niciunele nu necesită tehnologie complicată pentru a fi rezolvate.",
+      "items": [
+        { "title": "Website-ul tău nu reflectă afacerea", "body": "Se încarcă greu, arată vechi și clienții te judecă înainte să sune. Prima impresie contează." },
+        { "title": "Solicitările clienților se pierd", "body": "Mesajele se acumulează pe WhatsApp, email și Instagram. Nimeni nu știe ce necesită urmărire." },
+        { "title": "Totul funcționează pe foi de calcul", "body": "Clienți, oferte, rezervări — totul într-un fișier Excel pe care doar o persoană îl înțelege complet." },
+        { "title": "Nu te găsesc pe Google", "body": "Chiar și persoanele care te cunosc deja au dificultăți să te găsească. Clienți noi? Și mai greu." },
+        { "title": "Pierzi clienți fără să știi", "body": "Formularele ajung într-o cutie poștală uitată. Apelurile nu sunt returnate. Lumea sună la următoarea afacere din listă." },
+        { "title": "Ore pierdute în sarcini repetitive", "body": "Confirmarea rezervărilor, trimiterea de remindere, răspunsul la aceleași întrebări. În fiecare zi." }
+      ]
+    },
+    "solutions": {
+      "eyebrow": "Ce facem",
+      "h2": "Tot ce are nevoie afacerea ta pentru a arăta bine, a fi găsită și a funcționa eficient.",
+      "subtitle": "Fără jargon. Fără complexitate inutilă. Doar instrumentele potrivite pentru unde se află afacerea ta acum.",
+      "viewAll": "Vezi toate serviciile"
+    },
+    "transform": {
+      "eyebrow": "Transformarea",
+      "h2Without": "Cum arată fără instrumentele potrivite.",
+      "h2With": "Cum arată cu instrumentele potrivite.",
+      "subtitle": "Mici schimbări în modul în care afacerea ta operează online pot face o diferență uriașă — fără să schimbi cum lucrezi.",
+      "tabBefore": "Fără Aethos",
+      "tabAfter": "Cu Aethos",
+      "before": [
+        "Un website vechi care îți face să pierzi clienți",
+        "WhatsApp plin de mesaje fără răspuns",
+        "Foi Excel pe care nimeni nu le înțelege complet",
+        "Solicitări de clienți care pur și simplu dispar",
+        "Ore în fiecare zi pe sarcini care ar trebui să fie automate"
+      ],
+      "after": [
+        "Un website modern care lucrează pentru tine 24/7",
+        "Fiecare solicitare a clientului într-un loc organizat",
+        "Răspunsuri automate care confirmă elementele de bază instant",
+        "O imagine clară a ceea ce se întâmplă în afacerea ta",
+        "Să apari când oamenii caută ce oferi tu"
+      ]
+    },
+    "work": {
+      "eyebrow": "Lucrări recente",
+      "h2": "Afaceri reale. Rezultate reale.",
+      "viewAll": "Vezi toate proiectele"
+    },
+    "cta": {
+      "eyebrow": "Hai să vorbim",
+      "h2Before": "Să construim ceva care să",
+      "h2Accent": "ajute cu adevărat",
+      "h2After": "afacerea ta să crească.",
+      "subtitle": "Un apel de 30 de minute. Fără discurs de vânzări. Ascultăm, punem câteva întrebări și îți spunem sincer dacă te putem ajuta.",
+      "cta1": "Povestește-ne despre afacerea ta",
+      "cta2": "Vezi proiectele noastre"
     }
   },
-  "stats": {
-    "items": [
-      { "number": "+40h", "label": "economii lunare" },
-      { "number": "<2 min", "label": "răspuns mediu" },
-      { "number": "3x", "label": "mai multă conversie" },
-      { "number": "0", "label": "lead-uri pierdute" }
-    ]
-  },
-  "problems": {
-    "sectionLabel": "Problema",
-    "h2": "Recunoști aceste probleme?",
-    "body": "Majoritatea afacerilor mici pierd clienți și timp în fiecare zi din lipsă de sisteme automatizate. Nu e lipsă de efort. E lipsă de instrumentele potrivite.",
-    "items": [
-      { "num": "01", "title": "Lead-uri fără răspuns", "desc": "Formulare care ajung și nimeni nu le urmărește. Clienți potențiali care se pierd fără să știi." },
-      { "num": "02", "title": "Urmărire inexistentă", "desc": "Fără un sistem, fiecare follow-up depinde de cineva care să-și amintească. Și nimeni nu-și amintește mereu." },
-      { "num": "03", "title": "Muncă manuală care nu scalează", "desc": "Copiat date, trimis emailuri unul câte unul, actualizat foi de calcul. Ore pierdute în fiecare săptămână." },
-      { "num": "04", "title": "Fără vizibilitate asupra afacerii", "desc": "Nu știi câte lead-uri ai, de unde vin sau care este rata ta reală de conversie." }
-    ]
-  },
-  "sectors": {
-    "label": "Lucrăm cu",
-    "items": ["Imobiliare", "Clinici", "Renovări", "Ateliere auto", "Companii B2B", "Restaurante"]
+  "footer": {
+    "tagline": "Website-uri moderne și sisteme inteligente pentru afaceri care vor să crească fără complexitate.",
+    "studioLabel": "Studio",
+    "servicesLabel": "Servicii",
+    "industriesLabel": "Industrii",
+    "startConversation": "Începe o conversație",
+    "copyright": "© {year} Aethos Solutions. Realizat în Barcelona și București.",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "links": {
+      "services": "Servicii",
+      "work": "Proiecte",
+      "about": "Despre noi",
+      "contact": "Contact",
+      "webDesign": "Design web",
+      "landingPages": "Landing pages",
+      "seo": "SEO și căutare locală",
+      "leadCapture": "Captare lead-uri",
+      "automations": "Automatizări",
+      "dashboards": "Tablouri de bord",
+      "clinics": "Clinici",
+      "restaurants": "Restaurante",
+      "realestate": "Imobiliare",
+      "construction": "Construcții"
+    }
   },
   "services": {
-    "sectionLabel": "Servicii",
-    "h2": "Ce construim pentru tine",
-    "body": "Fiecare instrument este conceput să lucreze pentru tine în timp ce tu te concentrezi pe ceea ce faci cel mai bine.",
+    "eyebrow": "Serviciile noastre",
+    "h1": "Tot ce are nevoie afacerea ta pentru a arăta bine, a fi găsită și a funcționa eficient.",
+    "subtitle": "Fără jargon. Fără sisteme inutile. Ne concentrăm pe ceea ce va face cu adevărat diferența pentru afacerea ta acum.",
+    "ctaHero": "Vorbește cu noi despre afacerea ta",
+    "problemLabel": "Problema",
+    "whatWeDoLabel": "Ce facem",
+    "outcomesLabel": "Rezultate pentru afacere",
+    "howWeWork": {
+      "title": "Cum lucrăm",
+      "subtitle": "Simplu, rapid și concentrat pe afacerea ta — nu pe procese complicate.",
+      "steps": [
+        { "step": "01", "title": "Mai întâi ascultăm", "desc": "O conversație de 30 de minute pentru a înțelege afacerea ta, problemele tale și ce ar face cu adevărat diferența." },
+        { "step": "02", "title": "Construim ce se potrivește", "desc": "Nu un șablon standard sau un sistem umflat. Doar ce are nevoie afacerea ta chiar acum." },
+        { "step": "03", "title": "Lansezi și crești", "desc": "Îți predăm totul clar. Este complet al tău. Rămânem disponibili când ai nevoie de noi." }
+      ]
+    },
+    "notSure": {
+      "title": "Nu ești sigur de ce servicii ai nevoie?",
+      "subtitle": "Povestește-ne despre afacerea ta și îți vom sugera exact ce are sens pentru unde ești acum.",
+      "cta": "Începe o conversație"
+    },
     "items": [
-      { "title": "Dezvoltare web", "desc": "Site-uri profesionale și rapide concepute pentru a converti vizitatorii în clienți. SEO și optimizare mobilă incluse." },
-      { "title": "Automatizarea proceselor", "desc": "Fluxuri automate care gestionează sarcini repetitive: răspunsuri, notificări, actualizări de stare." },
-      { "title": "Gestionare clienți (CRM)", "desc": "Sistem centralizat pentru a urmări fiecare lead și client de la primul contact până la încheierea tranzacției." },
-      { "title": "WhatsApp & email automat", "desc": "Răspunsuri și urmăriri automate prin WhatsApp și email. Clienții tăi primesc un răspuns în câteva minute." },
-      { "title": "Tablouri de bord în timp real", "desc": "Vizualizează starea afacerii tale în orice moment. Lead-uri, vânzări și conversii, totul într-un panou clar." },
-      { "title": "Instrumente interne", "desc": "Aplicații și panouri personalizate pentru ca echipa ta să lucreze mai repede, cu mai puține erori și mai multă vizibilitate." }
+      {
+        "title": "Design web",
+        "problem": "Website-ul tău actual arată vechi, se încarcă greu sau nu reprezintă bine afacerea.",
+        "solution": "Un website rapid și modern care reflectă afacerea ta și dă vizitatorilor un motiv să te contacteze.",
+        "outcomes": ["Prima impresie credibilă", "Optimizat pentru mobil și rapid", "Îndemn la acțiune clar pe fiecare pagină"]
+      },
+      {
+        "title": "Landing Pages",
+        "problem": "Rulezi promoții, reclame sau campanii, dar nu ai unde să trimiți oamenii în mod dedicat.",
+        "solution": "Pagini create special pentru oferte, servicii sau campanii specifice — concepute să convertească.",
+        "outcomes": ["Mai mulți clienți potențiali din fiecare campanie", "Ofertă clară și formular simplu", "Rezultate măsurabile"]
+      },
+      {
+        "title": "SEO și căutare locală",
+        "problem": "Oamenii din zona ta caută ce oferi tu — dar îți găsesc concurenții în schimb.",
+        "solution": "Ajutăm afacerea ta să apară în rezultatele de căutare locală și Google Maps pentru cuvintele cheie potrivite.",
+        "outcomes": ["Mai mult trafic organic", "Optimizarea profilului Google Business", "Vizibilitate pe termen lung"]
+      },
+      {
+        "title": "Formulare de contact inteligente",
+        "problem": "Solicitările se pierd pe WhatsApp, email și Instagram. Nimeni nu știe cine a răspuns la ce.",
+        "solution": "Un formular inteligent care direcționează cererile în locul potrivit și trimite o confirmare instantanee.",
+        "outcomes": ["Fiecare solicitare capturată", "Răspuns automat instant", "Echipa notificată imediat"]
+      },
+      {
+        "title": "Organizarea lead-urilor",
+        "problem": "Lista ta de clienți trăiește într-un grup de WhatsApp, trei foi de calcul și memoria cuiva.",
+        "solution": "O vizualizare simplă și organizată a fiecărui lead și client — cine sunt, de unde vin, ce urmează.",
+        "outcomes": ["Nu mai pierzi niciun client", "Pipeline de urmărire clar", "Funcționează pe mobil"]
+      },
+      {
+        "title": "Automatizări practice",
+        "problem": "Petreci ore confirmând rezervări, trimițând remindere și răspunzând la aceleași întrebări.",
+        "solution": "Sisteme discrete care gestionează sarcinile repetitive automat — pentru ca tu să nu trebuiască.",
+        "outcomes": ["Economisești ore în fiecare săptămână", "Comunicare consistentă cu clienții", "Funcționează cât tu lucrezi"]
+      },
+      {
+        "title": "Tablouri de bord pentru afaceri",
+        "problem": "Nu știi câte lead-uri ai, de unde vin sau ce funcționează cu adevărat.",
+        "solution": "O prezentare simplă a ceea ce contează: lead-uri, rezervări, urmăriri — totul pe un ecran.",
+        "outcomes": ["Vezi afacerea dintr-o privire", "Știi ce funcționează", "Iei decizii mai bune mai repede"]
+      }
     ]
   },
-  "workflow": {
-    "sectionLabel": "Cum funcționează",
-    "h2": "De la lead la client, automat",
-    "body": "Un flux complet și automatizat care funcționează 24 de ore pe zi fără să ridici un deget.",
+  "work": {
+    "eyebrow": "Studii de caz",
+    "h1": "Afaceri reale. Rezultate reale.",
+    "subtitle": "Lucrăm cu afaceri mici din Spania și România. Iată ce se schimbă când obțin instrumentele potrivite.",
+    "challengeLabel": "Provocarea",
+    "builtLabel": "Ce am construit",
+    "resultsLabel": "Rezultate",
+    "cta": {
+      "title": "Afacerea ta ar putea fi următoarea.",
+      "subtitle": "Povestește-ne despre afacerea ta și îți vom arăta ce este posibil pentru unde ești acum.",
+      "button": "Începe un proiect"
+    }
+  },
+  "about": {
+    "eyebrow": "Despre Aethos",
+    "h1": "Construim website-uri și sisteme pentru afaceri care au lucruri mai bune de făcut decât să gestioneze foi de calcul.",
+    "body1": "Aethos este un mic studio digital concentrat pe un singur lucru: să ajute afacerile reale să aibă o prezență online mai profesionistă, să obțină mai mulți clienți și să nu mai piardă timp cu munca manuală repetitivă.",
+    "body2": "Suntem în Barcelona și București și lucrăm cu afaceri din Spania, România și nu numai. Vorbim engleză, spaniolă și română — și vorbim despre afaceri.",
+    "ctaButton": "Salută-ne",
+    "stats": {
+      "founded": "Fondată",
+      "countries": "Țări",
+      "languages": "Limbi",
+      "values": [
+        { "key": "founded", "value": "2024" },
+        { "key": "countries", "value": "2" },
+        { "key": "languages", "value": "3" }
+      ]
+    },
+    "approach": {
+      "title": "Cum suntem diferiți",
+      "subtitle": "Nu suntem o agenție mare cu manageri de cont și trackere de proiecte. Suntem o echipă mică căreia îi pasă să construiască lucruri care funcționează cu adevărat.",
+      "values": [
+        {
+          "title": "Ascultăm înainte să construim",
+          "desc": "Fiecare afacere este diferită. Punem întrebări, înțelegem situația ta și sugerăm doar ce va face cu adevărat diferența — nu ce este la modă."
+        },
+        {
+          "title": "Rapid, practic, fără umplutură",
+          "desc": "Ne mișcăm repede și ne concentrăm pe ce funcționează. Fără faze de descoperire de 3 luni. Fără complexitate inutilă. Rezultate în săptămâni, nu trimestre."
+        },
+        {
+          "title": "Totul este al tău, întotdeauna",
+          "desc": "Website-ul tău, domeniul tău, datele tale. Fără blocare, fără taxe de răscumpărare. Dacă vrei să pleci, iei totul cu tine. Fără întrebări."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Vrei să lucrăm împreună?",
+      "subtitle": "Povestește-ne despre afacerea ta. Un apel de 30 de minute, fără presiune, și îți vom spune sincer ce putem face.",
+      "button": "Contactează-ne"
+    }
+  },
+  "contact": {
+    "eyebrow": "Ia legătura cu noi",
+    "h1": "Hai să vorbim despre afacerea ta.",
+    "subtitle": "Spune-ne la ce lucrezi. Vom pune câteva întrebări și îți vom spune sincer dacă te putem ajuta.",
+    "whatHappensTitle": "Ce se întâmplă în continuare",
     "steps": [
-      { "num": "01", "title": "Formular", "desc": "Clientul completează formularul de pe site-ul sau pagina ta de destinație." },
-      { "num": "02", "title": "Automatizare", "desc": "Sistemul capturează, validează și clasifică lead-ul imediat." },
-      { "num": "03", "title": "Contact", "desc": "Răspuns automat prin WhatsApp sau email în mai puțin de 2 minute." },
-      { "num": "04", "title": "CRM", "desc": "Lead-ul intră direct în CRM-ul tău, organizat și gata de gestionat." },
-      { "num": "05", "title": "Urmărire", "desc": "Remindere automate și secvențe până la închiderea vânzării." }
+      { "step": "1", "title": "Citim mesajul tău", "desc": "În aceeași zi, de obicei în câteva ore." },
+      { "step": "2", "title": "Apel de 30 de minute", "desc": "Ascultăm situația ta și punem câteva întrebări. Fără discurs de vânzări." },
+      { "step": "3", "title": "Îți trimitem un plan", "desc": "O propunere clară în 48 de ore — ce am face, cât timp durează și cât costă." }
     ],
-    "results": [
-      { "title": "Răspuns în < 2 min", "desc": "Nimeni nu așteaptă. Nimeni nu pleacă." },
-      { "title": "0 lead-uri pierdute", "desc": "Totul înregistrat și urmărit." },
-      { "title": "CRM mereu actualizat", "desc": "Fără muncă manuală suplimentară." },
-      { "title": "Decizii bazate pe date", "desc": "Vizibilitate totală asupra afacerii." }
+    "otherWaysTitle": "Alte modalități de a ne contacta",
+    "emailLabel": "Email",
+    "responseLabel": "Timp de răspuns",
+    "responseValue": "În aceeași zi, de obicei în câteva ore",
+    "languagesLabel": "Limbi",
+    "languagesValue": "Engleză · Spaniolă · Română"
+  },
+  "form": {
+    "nameLabel": "Numele tău",
+    "namePlaceholder": "Maria Ionescu",
+    "businessLabel": "Numele afacerii",
+    "businessOptional": "(opțional)",
+    "businessPlaceholder": "Restaurantul Bella Vista",
+    "emailLabel": "Adresa de email",
+    "emailPlaceholder": "maria@bellavista.ro",
+    "typeLabel": "Tipul afacerii",
+    "typePlaceholder": "Selectează industria ta...",
+    "messageLabel": "Ce cauți?",
+    "messagePlaceholder": "Spune-ne despre afacerea ta și ce ai dori să îmbunătățești sau să construiești...",
+    "submit": "Trimite mesajul",
+    "submitting": "Se trimite...",
+    "successTitle": "Mesaj primit!",
+    "successBody": "Mulțumim că ne-ai contactat. Vom citi mesajul tău astăzi și îți vom răspunde în câteva ore.",
+    "disclaimer": "Citim fiecare mesaj și răspundem în 24 de ore.",
+    "businessTypes": [
+      "Clinică / sănătate",
+      "Restaurant / cafenea",
+      "Agenție imobiliară",
+      "Construcții / renovări",
+      "Comerț cu amănuntul",
+      "Servicii B2B",
+      "Altele"
     ]
-  },
-  "beforeAfter": {
-    "sectionLabel": "Transformare",
-    "h2": "Înainte și după Aethos",
-    "body": "Diferența reală pe care o face să ai sistemul potrivit lucrând pentru afacerea ta.",
-    "colSituation": "Situație",
-    "colBefore": "Înainte",
-    "colAfter": "Cu Aethos",
-    "rows": [
-      { "aspect": "Răspuns la lead-uri", "before": "Ore sau niciodată", "after": "Mai puțin de 2 minute" },
-      { "aspect": "Urmărire", "before": "Manuală și uitată", "after": "Automată și punctuală" },
-      { "aspect": "Gestionare clienți", "before": "Foi Excel", "after": "CRM digital în timp real" },
-      { "aspect": "Vizibilitate", "before": "Niciuna", "after": "Tablou de bord cu toate datele" },
-      { "aspect": "Rată de conversie", "before": "Scăzută și stagnantă", "after": "De până la 3x mai mulți clienți" }
-    ],
-    "svgBefore": "ÎNAINTE",
-    "svgAfter": "DUPĂ",
-    "svgNoSystem": "Fără sistem",
-    "svgLeadsLost": "Lead-uri pierdute",
-    "svgAllAuto": "Totul automat",
-    "svgZeroLost": "0 lead-uri pierdute",
-    "svgFormLabel": "Formular web",
-    "svgAutoLabel": "Răspuns auto.",
-    "svgAutoSub": "în < 2 min",
-    "svgCrmLabel": "CRM actualizat ✓"
-  },
-  "cta": {
-    "sectionLabel": "Pregătit să crești?",
-    "h2Line1": "Începe să automatizezi",
-    "h2Line2": "afacerea ta astăzi.",
-    "body": "Consultanță gratuită. Fără angajamente, fără jargon tehnic. Îți explicăm exact ce putem face pentru afacerea ta.",
-    "cta1": "Solicită consultanță gratuită",
-    "cta2": "Vezi serviciile"
-  },
-  "footer": {
-    "tagline": "Automatizare și dezvoltare web pentru IMM-uri și afaceri locale. Less complexity, more real results.",
-    "location": "Spania · România",
-    "servicesHeader": "Servicii",
-    "companyHeader": "Companie",
-    "serviceLinks": ["Dezvoltare web", "Automatizare", "CRM", "WhatsApp & email", "Tablouri de bord"],
-    "linkProcess": "Proces",
-    "linkSectors": "Sectoare",
-    "linkContact": "Contact",
-    "copyright": "© {year} Aethos Solutions. Toate drepturile rezervate.",
-    "madeWith": "Realizat cu grijă în Spania & România"
   }
 }

@@ -1,138 +1,284 @@
 {
   "meta": {
-    "title": "Aethos Solutions — Automation & Web Development",
-    "description": "We automate lead capture and follow-up for small businesses. No complexity, real results. Operating in Spain and Romania."
+    "title": "Aethos — Modern websites and smart systems for growing businesses",
+    "description": "We help clinics, restaurants, real-estate agencies and small B2B teams look more professional online, capture more leads, and save hours every week."
   },
   "nav": {
     "services": "Services",
-    "sectors": "Sectors",
-    "process": "Process",
+    "work": "Work",
+    "about": "About",
     "contact": "Contact",
-    "cta": "Get in touch"
+    "cta": "Start a project",
+    "langEN": "English",
+    "langES": "Español",
+    "langRO": "Română",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
   },
-  "hero": {
-    "eyebrow": "Automation for local businesses",
-    "h1Line1": "Your business,",
-    "h1Line2": "completely",
-    "h1Accent": "digitized.",
-    "subtitle": "We automate lead capture, follow-up and conversion so you can focus on what really matters. No complexity, real results from day one.",
-    "cta1": "Request a free consultation",
-    "cta2": "See how it works",
-    "tagline": "Operating in <strong>Spain</strong> and <strong>Romania</strong> · Free consultation, no strings attached",
-    "dashboard": {
-      "title": "Dashboard",
-      "recentLeads": "Recent leads",
-      "metricLeadsMonth": "Leads this month",
-      "metricConverted": "Converted",
-      "metricConvRate": "Conv. rate",
-      "metricAvgResponse": "Avg. response",
-      "sidebarDashboard": "Dashboard",
-      "sidebarLeads": "Leads",
-      "sidebarCrm": "CRM",
-      "sidebarReports": "Reports",
-      "sidebarConfig": "Settings",
-      "statusNew": "New",
-      "statusInProgress": "In progress",
-      "statusWon": "Won"
+  "home": {
+    "hero": {
+      "eyebrow": "Digital studio · Est. 2024",
+      "h1Before": "Modern websites and smart systems for",
+      "h1Accent": "growing",
+      "h1After": "businesses.",
+      "subtitle": "We help clinics, restaurants, real-estate agencies and small B2B teams look more professional online, capture more leads, and save hours every week.",
+      "cta1": "Start a project",
+      "cta2": "See what we do",
+      "trust1": "Live in 2–4 weeks",
+      "trust2": "You own everything",
+      "trust3": "No lock-in",
+      "builtFor": "Built for",
+      "industry1": "Clinics",
+      "industry2": "Restaurants",
+      "industry3": "Real estate",
+      "industry4": "Construction",
+      "industry5": "Workshops",
+      "industry6": "Small B2B"
+    },
+    "problems": {
+      "eyebrow": "Sound familiar?",
+      "h2": "Most small businesses face the same problems.",
+      "subtitle": "None of these are unique to your business. And none of them require complicated technology to fix.",
+      "items": [
+        { "title": "Your website doesn't reflect your business", "body": "It loads slowly, looks dated, and clients judge you before they ever call. First impressions matter." },
+        { "title": "Client requests get lost", "body": "Messages pile up across WhatsApp, email and Instagram. Nobody knows what needs following up." },
+        { "title": "Everything runs on spreadsheets", "body": "Clients, quotes, bookings — all in one Excel file that only one person understands." },
+        { "title": "People can't find you on Google", "body": "Even people who already know your name struggle to find you. New customers? Even harder." },
+        { "title": "You're losing clients without knowing it", "body": "Forms go to a forgotten inbox. Calls aren't returned. People just book the next business on the list." },
+        { "title": "Hours lost to repetitive tasks", "body": "Confirming bookings, sending reminders, answering the same questions. Every. Single. Day." }
+      ]
+    },
+    "solutions": {
+      "eyebrow": "What we do",
+      "h2": "Everything your business needs to look good, get found, and run smoothly.",
+      "subtitle": "No jargon. No unnecessary complexity. Just the right tools for where your business is right now.",
+      "viewAll": "See all services"
+    },
+    "transform": {
+      "eyebrow": "The transformation",
+      "h2Without": "How it looks without the right tools.",
+      "h2With": "How it looks with the right tools.",
+      "subtitle": "Small changes to how your business operates online can make a huge difference — without changing how you work.",
+      "tabBefore": "Without Aethos",
+      "tabAfter": "With Aethos",
+      "before": [
+        "An outdated website that loses you clients",
+        "WhatsApp overflowing with unread messages",
+        "Excel spreadsheets nobody fully understands",
+        "Client requests that simply disappear",
+        "Hours every day on tasks that should be automatic"
+      ],
+      "after": [
+        "A modern website that works for your business 24/7",
+        "Every client request in one organized place",
+        "Automatic replies that confirm the basics instantly",
+        "A clear view of what's happening in your business",
+        "Showing up when people search for what you do"
+      ]
+    },
+    "work": {
+      "eyebrow": "Recent work",
+      "h2": "Real businesses. Real results.",
+      "viewAll": "See all projects"
+    },
+    "cta": {
+      "eyebrow": "Let's talk",
+      "h2Before": "Let's build something that actually",
+      "h2Accent": "helps",
+      "h2After": "your business grow.",
+      "subtitle": "A 30-minute call. No sales pitch. We listen, ask a few questions, and tell you honestly whether we can help.",
+      "cta1": "Tell us about your business",
+      "cta2": "See our work"
     }
   },
-  "stats": {
-    "items": [
-      { "number": "+40h", "label": "monthly savings" },
-      { "number": "<2 min", "label": "average response" },
-      { "number": "3x", "label": "more conversions" },
-      { "number": "0", "label": "lost leads" }
-    ]
-  },
-  "problems": {
-    "sectionLabel": "The problem",
-    "h2": "Do you recognize these problems?",
-    "body": "Most small businesses lose clients and time every day for lack of automated systems. It's not about working harder. It's about having the right tools.",
-    "items": [
-      { "num": "01", "title": "Unanswered leads", "desc": "Forms arrive and nobody follows up. Potential clients slip away without you even noticing." },
-      { "num": "02", "title": "No follow-up system", "desc": "Without a system, every follow-up depends on someone remembering. And nobody always remembers." },
-      { "num": "03", "title": "Manual work that doesn't scale", "desc": "Copying data, sending emails one by one, updating spreadsheets. Hours lost every week." },
-      { "num": "04", "title": "No business visibility", "desc": "You don't know how many leads you have, where they come from, or what your real conversion rate is." }
-    ]
-  },
-  "sectors": {
-    "label": "We work with",
-    "items": ["Real Estate", "Clinics", "Renovations", "Workshops", "B2B Companies", "Restaurants"]
+  "footer": {
+    "tagline": "Modern websites and smart systems for businesses that want to grow without the complexity.",
+    "studioLabel": "Studio",
+    "servicesLabel": "Services",
+    "industriesLabel": "Industries",
+    "startConversation": "Start a conversation",
+    "copyright": "© {year} Aethos Solutions. Made in Barcelona & Bucharest.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "links": {
+      "services": "Services",
+      "work": "Work",
+      "about": "About",
+      "contact": "Contact",
+      "webDesign": "Web design",
+      "landingPages": "Landing pages",
+      "seo": "SEO & search",
+      "leadCapture": "Lead capture",
+      "automations": "Automations",
+      "dashboards": "Dashboards",
+      "clinics": "Clinics",
+      "restaurants": "Restaurants",
+      "realestate": "Real estate",
+      "construction": "Construction"
+    }
   },
   "services": {
-    "sectionLabel": "Services",
-    "h2": "What we build for you",
-    "body": "Every tool is designed to work for you while you focus on what you do best.",
+    "eyebrow": "Our services",
+    "h1": "Everything your business needs to look good, get found, and run smoothly.",
+    "subtitle": "No jargon. No unnecessary systems. We focus on what will actually move the needle for your business right now.",
+    "ctaHero": "Talk to us about your business",
+    "problemLabel": "The problem",
+    "whatWeDoLabel": "What we do",
+    "outcomesLabel": "Business outcomes",
+    "howWeWork": {
+      "title": "How we work",
+      "subtitle": "Simple, fast and focused on your business — not on complicated processes.",
+      "steps": [
+        { "step": "01", "title": "We listen first", "desc": "A 30-minute conversation to understand your business, your problems and what would actually make a difference." },
+        { "step": "02", "title": "We build what fits", "desc": "Not a standard template or a bloated system. Only what your business needs right now." },
+        { "step": "03", "title": "You launch and grow", "desc": "We hand everything over clearly. You own it completely. We stay available when you need us." }
+      ]
+    },
+    "notSure": {
+      "title": "Not sure which services you need?",
+      "subtitle": "Tell us about your business and we'll suggest exactly what makes sense for where you are right now.",
+      "cta": "Start a conversation"
+    },
     "items": [
-      { "title": "Web development", "desc": "Professional, fast websites designed to convert visitors into clients. SEO and mobile optimization included." },
-      { "title": "Process automation", "desc": "Automatic workflows that handle repetitive tasks: replies, notifications, status updates." },
-      { "title": "Customer management (CRM)", "desc": "Centralized system to track every lead and client from first contact to closing the deal." },
-      { "title": "Automatic WhatsApp & email", "desc": "Automatic replies and follow-ups via WhatsApp and email. Your clients get a response in minutes." },
-      { "title": "Real-time dashboards", "desc": "See your business status at any time. Leads, sales and conversions, all in one clear panel." },
-      { "title": "Internal tools", "desc": "Custom apps and panels so your team works faster, with fewer errors and more visibility." }
+      {
+        "title": "Web Design",
+        "problem": "Your current website looks old, loads slowly, or doesn't represent your business well.",
+        "solution": "A fast, modern website that reflects your business and gives visitors a reason to contact you.",
+        "outcomes": ["Credible first impression", "Mobile-friendly and fast", "Clear call-to-action on every page"]
+      },
+      {
+        "title": "Landing Pages",
+        "problem": "You run promotions, ads or campaigns but have nowhere dedicated to send people.",
+        "solution": "Purpose-built pages for specific offers, services or campaigns — designed to convert.",
+        "outcomes": ["More leads from every campaign", "Clear offer and simple form", "Trackable results"]
+      },
+      {
+        "title": "SEO & Local Search",
+        "problem": "People in your area are searching for what you do — but they're finding your competitors instead.",
+        "solution": "We help your business show up in local search results and Google Maps for the right keywords.",
+        "outcomes": ["More organic traffic", "Google Business Profile optimization", "Long-term visibility"]
+      },
+      {
+        "title": "Smart Contact Forms",
+        "problem": "Inquiries get lost across WhatsApp, email and Instagram. Nobody knows who replied to what.",
+        "solution": "One smart form that routes requests to the right place and sends an instant acknowledgement.",
+        "outcomes": ["Every inquiry captured", "Instant automatic reply", "Team notified immediately"]
+      },
+      {
+        "title": "Lead Organization",
+        "problem": "Your client list lives in a WhatsApp group, three spreadsheets, and someone's memory.",
+        "solution": "A simple, organized view of every lead and client — who they are, where they came from, what's next.",
+        "outcomes": ["Never lose a client again", "Clear follow-up pipeline", "Works on mobile"]
+      },
+      {
+        "title": "Practical Automations",
+        "problem": "You spend hours confirming bookings, sending reminders, and answering the same questions.",
+        "solution": "Quiet systems that handle the repetitive stuff automatically — so you don't have to.",
+        "outcomes": ["Save hours every week", "Consistent client communication", "Runs while you work"]
+      },
+      {
+        "title": "Business Dashboards",
+        "problem": "You don't know how many leads you have, where they come from, or what's actually working.",
+        "solution": "A simple overview of what matters: leads, bookings, follow-ups — all in one screen.",
+        "outcomes": ["See your business at a glance", "Know what's working", "Make better decisions faster"]
+      }
     ]
   },
-  "workflow": {
-    "sectionLabel": "How it works",
-    "h2": "From lead to client, automatically",
-    "body": "A complete, automated workflow that runs 24 hours a day without you lifting a finger.",
+  "work": {
+    "eyebrow": "Case studies",
+    "h1": "Real businesses. Real results.",
+    "subtitle": "We work with small businesses across Spain and Romania. Here's what changes when they get the right tools.",
+    "challengeLabel": "The challenge",
+    "builtLabel": "What we built",
+    "resultsLabel": "Results",
+    "cta": {
+      "title": "Your business could be next.",
+      "subtitle": "Tell us about your business and we'll show you what's possible for where you are right now.",
+      "button": "Start a project"
+    }
+  },
+  "about": {
+    "eyebrow": "About Aethos",
+    "h1": "We build websites and systems for businesses that have better things to do than manage spreadsheets.",
+    "body1": "Aethos is a small digital studio focused on one thing: helping real businesses look more professional online, get more clients, and stop losing time to repetitive manual work.",
+    "body2": "We're based in Barcelona and Bucharest, and we work with businesses across Spain, Romania and beyond. We speak English, Spanish and Romanian — and we speak business.",
+    "ctaButton": "Say hello",
+    "stats": {
+      "founded": "Founded",
+      "countries": "Countries",
+      "languages": "Languages",
+      "values": [
+        { "key": "founded", "value": "2024" },
+        { "key": "countries", "value": "2" },
+        { "key": "languages", "value": "3" }
+      ]
+    },
+    "approach": {
+      "title": "How we're different",
+      "subtitle": "We're not a large agency with account managers and project trackers. We're a small team that cares about building things that actually work.",
+      "values": [
+        {
+          "title": "We listen before we build",
+          "desc": "Every business is different. We ask questions, understand your situation, and only suggest what will actually make a difference for you — not what's trendy."
+        },
+        {
+          "title": "Fast, practical, no fluff",
+          "desc": "We move quickly and focus on what works. No 3-month discovery phases. No unnecessary complexity. You see results in weeks, not quarters."
+        },
+        {
+          "title": "You own everything, always",
+          "desc": "Your website, your domain, your data. No lock-in, no hostage fees. If you ever want to leave, you take everything with you. No questions asked."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Want to work together?",
+      "subtitle": "Tell us about your business. A 30-minute call, no pressure, and we'll tell you honestly what we can do.",
+      "button": "Get in touch"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "h1": "Let's talk about your business.",
+    "subtitle": "Tell us what you're working on. We'll ask a few questions and tell you honestly whether we can help.",
+    "whatHappensTitle": "What happens next",
     "steps": [
-      { "num": "01", "title": "Form", "desc": "The client fills in the form on your website or landing page." },
-      { "num": "02", "title": "Automation", "desc": "The system instantly captures, validates and classifies the lead." },
-      { "num": "03", "title": "Contact", "desc": "Automatic reply via WhatsApp or email in less than 2 minutes." },
-      { "num": "04", "title": "CRM", "desc": "The lead enters your CRM directly, organized and ready to manage." },
-      { "num": "05", "title": "Follow-up", "desc": "Automatic reminders and sequences until the deal is closed." }
+      { "step": "1", "title": "We read your message", "desc": "Same day, usually within a few hours." },
+      { "step": "2", "title": "30-minute call", "desc": "We listen to your situation, ask a few questions. No sales pitch." },
+      { "step": "3", "title": "We send a plan", "desc": "A clear proposal within 48 hours — what we'd do, how long, and what it costs." }
     ],
-    "results": [
-      { "title": "Response in < 2 min", "desc": "Nobody waits. Nobody leaves." },
-      { "title": "0 lost leads", "desc": "Everything recorded and tracked." },
-      { "title": "CRM always up to date", "desc": "No extra manual work." },
-      { "title": "Data-driven decisions", "desc": "Full visibility of your business." }
+    "otherWaysTitle": "Other ways to reach us",
+    "emailLabel": "Email",
+    "responseLabel": "Response time",
+    "responseValue": "Same day, usually within a few hours",
+    "languagesLabel": "Languages",
+    "languagesValue": "English · Spanish · Romanian"
+  },
+  "form": {
+    "nameLabel": "Your name",
+    "namePlaceholder": "Maria García",
+    "businessLabel": "Business name",
+    "businessOptional": "(optional)",
+    "businessPlaceholder": "Bella Vista Restaurant",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "maria@bellavista.com",
+    "typeLabel": "Type of business",
+    "typePlaceholder": "Select your industry...",
+    "messageLabel": "What are you looking for?",
+    "messagePlaceholder": "Tell us about your business and what you'd like to improve or build...",
+    "submit": "Send message",
+    "submitting": "Sending...",
+    "successTitle": "Message received!",
+    "successBody": "Thanks for reaching out. We'll read your message today and get back to you within a few hours.",
+    "disclaimer": "We read every message and reply within 24 hours.",
+    "businessTypes": [
+      "Clinic / healthcare",
+      "Restaurant / café",
+      "Real estate agency",
+      "Construction / renovation",
+      "Retail shop",
+      "B2B services",
+      "Other"
     ]
-  },
-  "beforeAfter": {
-    "sectionLabel": "Transformation",
-    "h2": "Before and after Aethos",
-    "body": "The real difference that having the right system working for your business makes.",
-    "colSituation": "Situation",
-    "colBefore": "Before",
-    "colAfter": "With Aethos",
-    "rows": [
-      { "aspect": "Lead response", "before": "Hours or never", "after": "Less than 2 minutes" },
-      { "aspect": "Follow-up", "before": "Manual and forgotten", "after": "Automatic and timely" },
-      { "aspect": "Client management", "before": "Excel spreadsheets", "after": "Digital CRM in real time" },
-      { "aspect": "Visibility", "before": "None", "after": "Dashboard with all data" },
-      { "aspect": "Conversion rate", "before": "Low and stagnant", "after": "Up to 3x more clients" }
-    ],
-    "svgBefore": "BEFORE",
-    "svgAfter": "AFTER",
-    "svgNoSystem": "No system",
-    "svgLeadsLost": "Lost leads",
-    "svgAllAuto": "All automated",
-    "svgZeroLost": "0 leads lost",
-    "svgFormLabel": "Web form",
-    "svgAutoLabel": "Auto reply",
-    "svgAutoSub": "in < 2 min",
-    "svgCrmLabel": "CRM updated ✓"
-  },
-  "cta": {
-    "sectionLabel": "Ready to grow?",
-    "h2Line1": "Start automating",
-    "h2Line2": "your business today.",
-    "body": "Free consultation. No commitment, no jargon. We'll explain exactly what we can do for your business.",
-    "cta1": "Request a free consultation",
-    "cta2": "See services"
-  },
-  "footer": {
-    "tagline": "Automation and web development for small businesses and local companies. Less complexity, more real results.",
-    "location": "Spain · Romania",
-    "servicesHeader": "Services",
-    "companyHeader": "Company",
-    "serviceLinks": ["Web development", "Automation", "CRM", "WhatsApp & email", "Dashboards"],
-    "linkProcess": "Process",
-    "linkSectors": "Sectors",
-    "linkContact": "Contact",
-    "copyright": "© {year} Aethos Solutions. All rights reserved.",
-    "madeWith": "Made with care in Spain & Romania"
   }
 }
