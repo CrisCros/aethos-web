@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\dcind\\\\Desktop\\\\aethos-solutions\" -Recurse | Where-Object { !$_.FullName.Contains\\(\"node_modules\"\\) -and !$_.FullName.Contains\\(\".next\"\\) -and !$_.FullName.Contains\\(\".git\"\\) } | Select-Object FullName)",
+      "PowerShell(Get-Content *)",
+      "PowerShell($content = Get-Content \"C:\\\\Users\\\\dcind\\\\Downloads\\\\Aethos Solutions Website.html\" -Raw; $idx = $content.LastIndexOf\\('type=\"__bundler/template\"'\\); if \\($idx -gt 0\\) { Write-Host \"Found at: $idx\"; $content.Substring\\($idx, [Math]::Min\\(500, $content.Length - $idx\\)\\) } else { \"Not found\" })"
+    ]
+  }
+}
