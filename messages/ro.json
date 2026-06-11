@@ -487,12 +487,18 @@
     "businessPlaceholder": "Numele afacerii tale",
     "emailLabel": "Adresa de email",
     "emailPlaceholder": "ion@afacereatа.ro",
+    "serviceLabel": "Serviciu solicitat",
+    "servicePlaceholder": "Selectează un serviciu",
+    "serviceOptions": ["Design web", "Dezvoltare web", "Automatizare afaceri", "Nu sunt sigur încă"],
     "messageLabel": "De ce ai nevoie?",
     "messagePlaceholder": "Vreau să îmbunătățesc site-ul meu, să creez o landing page, să organizez solicitările sau să automatizez o parte din afacerea mea…",
     "submit": "Trimite mesaj",
     "submitting": "Se trimite…",
     "successTitle": "Mesaj primit!",
     "successBody": "Mulțumim că ne-ai scris. Vom citi mesajul tău astăzi și îți vom răspunde în câteva ore.",
+    "errorTitle": "Ceva nu a mers bine",
+    "errorBody": "Nu am putut trimite mesajul tău. Încearcă din nou sau scrie-ne direct la aethos.solutions@gmail.com.",
+    "tryAgain": "Încearcă din nou",
     "disclaimer": "Citim toate mesajele și răspundem în 24 de ore."
   },
   "privacy": {

@@ -487,12 +487,18 @@
     "businessPlaceholder": "Nombre de tu negocio",
     "emailLabel": "Correo electrónico",
     "emailPlaceholder": "maria@tunegocio.com",
+    "serviceLabel": "Servicio solicitado",
+    "servicePlaceholder": "Selecciona un servicio",
+    "serviceOptions": ["Diseño web", "Desarrollo web", "Automatización de negocio", "Aún no lo sé"],
     "messageLabel": "¿Qué necesitas?",
     "messagePlaceholder": "Quiero mejorar mi web, crear una landing page, organizar solicitudes o automatizar parte de mi negocio…",
     "submit": "Enviar mensaje",
     "submitting": "Enviando…",
     "successTitle": "¡Mensaje recibido!",
     "successBody": "Gracias por escribirnos. Leeremos tu mensaje hoy y te responderemos en pocas horas.",
+    "errorTitle": "Algo salió mal",
+    "errorBody": "No pudimos enviar tu mensaje. Inténtalo de nuevo o escríbenos directamente a aethos.solutions@gmail.com.",
+    "tryAgain": "Intentar de nuevo",
     "disclaimer": "Leemos todos los mensajes y respondemos en menos de 24 horas."
   },
   "privacy": {

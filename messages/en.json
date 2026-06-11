@@ -487,12 +487,18 @@
     "businessPlaceholder": "Your business name",
     "emailLabel": "Email address",
     "emailPlaceholder": "maria@yourbusiness.com",
+    "serviceLabel": "Service requested",
+    "servicePlaceholder": "Select a service",
+    "serviceOptions": ["Web Design", "Web Development", "Business Automation", "Not sure yet"],
     "messageLabel": "What do you need?",
     "messagePlaceholder": "I want to improve my website, create a landing page, organise enquiries or automate part of my business…",
     "submit": "Send message",
     "submitting": "Sending…",
     "successTitle": "Message received!",
     "successBody": "Thanks for reaching out. We will read your message today and get back to you within a few hours.",
+    "errorTitle": "Something went wrong",
+    "errorBody": "We couldn't send your message. Please try again, or email us directly at aethos.solutions@gmail.com.",
+    "tryAgain": "Try again",
     "disclaimer": "We read every message and reply within 24 hours."
   },
   "privacy": {
