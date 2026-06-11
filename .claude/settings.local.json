@@ -30,7 +30,11 @@
       "Read(//c/Users/dcind/Desktop/aethos-web-main/node_modules/next/dist/docs//**)",
       "Read(//c/Users/dcind/Desktop/aethos-web-main/node_modules//**)",
       "Bash(node -e \"console.log\\(require\\('C:/Users/dcind/Desktop/aethos-web-main/package.json'\\).dependencies, require\\('C:/Users/dcind/Desktop/aethos-web-main/package.json'\\).devDependencies\\)\")",
-      "Read(//c/c/Users/dcind/Desktop/aethos-web-main/**)"
+      "Read(//c/c/Users/dcind/Desktop/aethos-web-main/**)",
+      "Bash(git status *)",
+      "Bash(git ls-tree *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)"
     ]
   }
 }
