@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "title": "Aethos Solutions — Studio digital pentru afaceri care vor să crească",
+    "description": "Proiectăm și construim site-uri moderne, experiențe digitale și automatizări practice pentru afaceri mici și mijlocii, din La Rioja, Spania.",
+    "services": {
+      "title": "Servicii de Design Web, Dezvoltare și Automatizare | Aethos Solutions",
+      "description": "Servicii practice de design web, dezvoltare și automatizare pentru afaceri mici și mijlocii. Site-uri moderne, dezvoltare rapidă și automatizări simple care economisesc timp."
+    },
+    "serviceDesign": {
+      "title": "Servicii de Design Web | Aethos Solutions",
+      "description": "Design web care construiește încredere de la prima impresie. Site-uri clare, moderne și orientate spre conversie pentru afaceri mici și mijlocii."
+    },
+    "serviceDevelopment": {
+      "title": "Servicii de Dezvoltare Web | Aethos Solutions",
+      "description": "Dezvoltare web rapidă, curată și responsive, pregătită să crească. Site-uri optimizate pentru SEO, ușor de menținut și gândite pentru performanță."
+    },
+    "serviceAutomation": {
+      "title": "Servicii de Automatizare pentru Afaceri | Aethos Solutions",
+      "description": "Automatizări simple care economisesc timp și reduc munca manuală. Formulare conectate, răspunsuri automate, memento-uri și organizarea lead-urilor pentru afaceri mici."
+    },
+    "work": {
+      "title": "Proiecte și Concepte | Aethos Solutions",
+      "description": "Descoperă tipul de site-uri, landing page-uri, automatizări și panouri pe care Aethos Solutions le poate construi pentru afacerea ta."
+    },
+    "about": {
+      "title": "Despre Aethos Solutions | Studio Digital în La Rioja, Spania",
+      "description": "Aethos Solutions este un studio digital mic și direct care lucrează din La Rioja, Spania și Alba Iulia, România. Construim site-uri și automatizări practice pentru afaceri reale."
+    },
+    "contact": {
+      "title": "Contactează Aethos Solutions",
+      "description": "Spune-ne despre afacerea sau proiectul tău. Răspundem cu o propunere clară, de obicei în câteva ore."
+    },
+    "privacy": {
+      "title": "Politica de Confidențialitate | Aethos Solutions",
+      "description": "Cum colectează, utilizează și protejează Aethos Solutions informațiile tale atunci când vizitezi site-ul nostru sau ne contactezi."
+    },
+    "terms": {
+      "title": "Termeni și Condiții | Aethos Solutions",
+      "description": "Condițiile care se aplică atunci când folosești site-ul Aethos Solutions sau lucrezi cu noi la un proiect."
+    }
+  },
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "servicesMenu": {
+      "design": "Design",
+      "development": "Dezvoltare",
+      "automation": "Automatizare"
+    },
+    "work": "Proiecte",
+    "about": "Despre noi",
+    "contact": "Contact",
+    "cta": "Începe un proiect",
+    "langEN": "English",
+    "langES": "Español",
+    "langRO": "Română",
+    "darkMode": "Mod întunecat",
+    "lightMode": "Mod luminos",
+    "menu": "Meniu",
+    "closeMenu": "Închide meniul",
+    "selectLanguage": "Selectează limba"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Studio digital · Est. 2025",
+      "h1": "Sisteme digitale care susțin creșterea.",
+      "subtitle": "Proiectăm și construim site-uri, produse digitale și automatizări care ajută afacerile ambițioase să lucreze mai inteligent și să crească mai repede.",
+      "cta1": "Începe un proiect",
+      "cta2": "Vezi proiectele",
+      "trust1": "Proces clar",
+      "trust2": "Construit pentru rezultate",
+      "trust3": "Fără dependențe",
+      "servicesLine": "Strategie · Design · Dezvoltare · Automatizare",
+      "scroll": "Derulează"
+    },
+    "mosaic": {
+      "eyebrow": "Ce construim",
+      "h2": "Trei servicii, o direcție clară",
+      "subtitle": "Design, dezvoltare și automatizare combinate pentru a oferi afacerii tale o prezență digitală mai solidă și mai funcțională.",
+      "tile1Title": "Design",
+      "tile1Sub": "Identitate vizuală, experiență și prezență online.",
+      "tile1Hover": "Proiectăm site-uri și experiențe digitale care construiesc încredere de la prima impresie.",
+      "tile2Title": "Dezvoltare",
+      "tile2Sub": "Site-uri rapide și curate, pregătite să crească.",
+      "tile2Hover": "Transformăm idei și design-uri în produse digitale reale: rapide, responsive și ușor de menținut.",
+      "tile3Title": "Automatizare",
+      "tile3Sub": "Mai puțin lucru repetitiv. Mai mult timp pentru afacerea ta.",
+      "tile3Hover": "Construim automatizări simple pentru a organiza solicitările, a răspunde mai repede și a reduce munca manuală.",
+      "tile1Cta": "Vezi Design",
+      "tile2Cta": "Vezi Dezvoltare",
+      "tile3Cta": "Vezi Automatizare"
+    },
+    "problems": {
+      "eyebrow": "O problemă comună",
+      "h2": "Multe afaceri au aceeași problemă: prezența lor digitală nu reflectă ce valorează cu adevărat.",
+      "subtitle": "Un site vechi, mesaje împrăștiate sau procese manuale fac să pierzi oportunități fără să-ți dai seama.",
+      "items": [
+        {
+          "title": "Site-ul tău nu inspiră încredere",
+          "body": "Dacă prima impresie eșuează, mulți clienți pleacă înainte să te contacteze."
+        },
+        {
+          "title": "Solicitările tale sunt împrăștiate",
+          "body": "WhatsApp, email, formulare, telefoane — totul amestecat și greu de urmărit."
+        },
+        {
+          "title": "Nu te găsesc când caută",
+          "body": "Dacă nu apari pe Google, lași spațiu liber concurenților tăi."
+        },
+        {
+          "title": "Pierzi timp cu sarcini repetitive",
+          "body": "Răspunzi la aceleași întrebări, confirmi programări, trimiți mementouri, copiezi date manual."
+        },
+        {
+          "title": "Afacerea ta pare mai puțin profesională decât este",
+          "body": "O prezență online neglijată poate face ca o afacere bună să nu inspire încredere."
+        },
+        {
+          "title": "Nu ai un sistem clar",
+          "body": "Când totul depinde de memorie, notițe sau foi de calcul, ceva se pierde întotdeauna."
+        }
+      ]
+    },
+    "beforeAfter": {
+      "eyebrow": "Diferența",
+      "h2Without": "Fără Aethos",
+      "h2With": "Cu Aethos",
+      "subtitle": "Diferența nu constă doar în a avea un site. Constă în a avea o prezență digitală clară, profesională și gândită să funcționeze.",
+      "withoutItems": [
+        "Site vechi sau inexistent",
+        "Mesaje împrăștiate între WhatsApp, email și telefon",
+        "Formulare pe care nimeni nu le verifică",
+        "Vizibilitate scăzută pe Google",
+        "Sarcini repetitive zilnic",
+        "Primă impresie neprofesională"
+      ],
+      "withItems": [
+        "Site modern și clar",
+        "Solicitări organizate",
+        "Formulare conectate",
+        "Prezență online mai bună",
+        "Automatizări simple",
+        "Imagine profesională de la primul contact"
+      ]
+    },
+    "howWeWork": {
+      "eyebrow": "Cum lucrăm",
+      "h2": "Un proces clar de la prima conversație",
+      "subtitle": "Fără întâlniri inutile, fără livrări complicate. Doar un proces direct și concentrat.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Înțelegem afacerea ta",
+          "desc": "Analizăm ce faci, ce ai nevoie și ce frânează prezența ta digitală."
+        },
+        {
+          "num": "02",
+          "title": "Proiectăm o soluție clară",
+          "desc": "Propunem o structură simplă și vizuală gândită pentru ca utilizatorul să acționeze."
+        },
+        {
+          "num": "03",
+          "title": "Construim și ajustăm",
+          "desc": "Creăm site-ul sau sistemul, îl revizuim împreună și pregătim totul pentru lansare."
+        },
+        {
+          "num": "04",
+          "title": "Îți dăm controlul",
+          "desc": "Domeniul tău, site-ul tău, datele tale. Totul al tău. Fără dependențe."
+        }
+      ]
+    },
+    "work": {
+      "eyebrow": "Idei de proiecte",
+      "h2": "Idei de proiecte pe care le putem construi",
+      "subtitle": "Suntem încă în procesul de construire a portofoliului. Aceste exemple arată tipul de soluții pe care le creăm pentru afaceri reale.",
+      "viewAll": "Vezi toate conceptele"
+    },
+    "cta": {
+      "eyebrow": "Să vorbim",
+      "h2": "Oferă afacerii tale o prezență digitală mai clară, mai modernă și mai profesională.",
+      "subtitle": "Spune-ne ce ai acum, ce vrei să îmbunătățești și ce rezultat cauți. Te ajutăm să transformi asta într-o soluție concretă.",
+      "cta1": "Spune-ne despre proiectul tău",
+      "cta2": "Vezi servicii"
+    },
+    "faq": {
+      "eyebrow": "Întrebări frecvente",
+      "h2": "Întrebări frecvente",
+      "subtitle": "Câteva răspunsuri sincere înainte să ne scrii.",
+      "items": [
+        {
+          "q": "Cât costă un proiect?",
+          "a": "Depinde de ce ai nevoie — o landing page simplă este foarte diferită de un site complet cu automatizări. Spune-ne despre proiectul tău și îți vom oferi o estimare clară înainte de orice angajament."
+        },
+        {
+          "q": "Cât durează un proiect?",
+          "a": "Majoritatea site-urilor durează între două și patru săptămâni de la prima conversație până la lansare, în funcție de amploare și de rapiditatea cu care primim conținut și feedback. Automatizările sunt adesea mai rapide."
+        },
+        {
+          "q": "Sunteți o agenție sau freelanceri?",
+          "a": "Suntem un studio mic — o echipă concentrată, nu o agenție mare. Asta înseamnă comunicare directă cu persoanele care chiar fac munca, fără niveluri inutile."
+        },
+        {
+          "q": "Voi deține site-ul și datele mele?",
+          "a": "Da. Domeniul tău, site-ul tău, datele și conținutul tău îți aparțin. Nu te legăm de platforme proprietare sau abonamente ascunse."
+        },
+        {
+          "q": "Oferiți suport după lansare?",
+          "a": "Da. Oferim mentenanță și suport după lansare și suntem bucuroși să facem actualizări sau îmbunătățiri pe măsură ce afacerea ta crește."
+        },
+        {
+          "q": "Lucrați cu afaceri din afara Spaniei?",
+          "a": "Da. Lucrăm în spaniolă, engleză și română și colaborăm cu clienți din Spania, România și alte țări — cea mai mare parte a muncii noastre se desfășoară remote."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Site-uri moderne, experiențe digitale și automatizări practice pentru afaceri care vor să crească.",
+    "studioLabel": "Studio",
+    "servicesLabel": "Servicii",
+    "startConversation": "Începe o conversație",
+    "copyright": "© {year} Aethos Solutions. La Rioja și Alba Iulia.",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "links": {
+      "home": "Acasă",
+      "services": "Servicii",
+      "work": "Proiecte",
+      "about": "Despre noi",
+      "contact": "Contact",
+      "design": "Design",
+      "development": "Dezvoltare",
+      "automation": "Automatizare"
+    }
+  },
+  "services": {
+    "eyebrow": "Servicii",
+    "h1": "Servicii digitale pentru ca afacerea ta să arate mai bine și să funcționeze mai bine.",
+    "subtitle": "Design, dezvoltare și automatizare combinate pentru a crea soluții clare, utile și pregătite să crească.",
+    "ctaHero": "Spune-ne despre proiectul tău",
+    "pillar1Title": "Design",
+    "pillar1Text": "Identitate vizuală, structură și experiență digitală gândită pentru a construi încredere de la primul contact.",
+    "pillar1Cta": "Vezi Design",
+    "pillar2Title": "Dezvoltare",
+    "pillar2Text": "Site-uri rapide, curate și responsive pregătite pentru SEO și pentru creștere.",
+    "pillar2Cta": "Vezi Dezvoltare",
+    "pillar3Title": "Automatizare",
+    "pillar3Text": "Sisteme simple care reduc sarcinile repetitive și organizează afacerea ta.",
+    "pillar3Cta": "Vezi Automatizare",
+    "whatIncluded": "Ce poate include proiectul tău",
+    "includedItems": [
+      "Site corporativ",
+      "Landing page",
+      "SEO de bază",
+      "Formulare inteligente",
+      "Integrare email sau WhatsApp",
+      "Organizare lead-uri",
+      "Automatizări simple",
+      "Panouri de bază",
+      "Mentenanță site"
+    ],
+    "notSure": {
+      "title": "Nu știi ce servicii ai nevoie?",
+      "subtitle": "Spune-ne despre afacerea ta și îți sugerăm exact ce are sens pentru unde ești acum.",
+      "cta": "Începe o conversație"
+    }
+  },
+  "serviceDesign": {
+    "eyebrow": "Design",
+    "h1": "Design web pentru afaceri care vor să transmită încredere.",
+    "subtitle": "Proiectăm pagini clare și moderne pentru ca clienții tăi să înțeleagă rapid cine ești, ce oferi și cum să te contacteze.",
+    "problemTitle": "Prima impresie contează",
+    "problemBody": "Un site care arată vechi, confuz sau neglijat îndepărtează clienții înainte să te contacteze. Design-ul nu este doar estetică — este primul lucru pe care îl comunică afacerea ta.",
+    "whatWeDesign": "Ce proiectăm",
+    "designItems": [
+      "Structura și arhitectura paginilor",
+      "Experiența utilizatorului și navigarea",
+      "Stil vizual și identitate de brand",
+      "Pagini responsive pentru mobil",
+      "Conținut orientat spre conversie",
+      "Design pregătit pentru SEO"
+    ],
+    "whatChanges": "Ce se schimbă pentru afacerea ta",
+    "changesItems": [
+      "Primă impresie mai bună",
+      "Navigare mai clară și mai fluentă",
+      "Mai multă încredere de la primul contact",
+      "Contact mai ușor pentru clienți",
+      "Imagine mai profesională"
+    ],
+    "processTitle": "Cum abordăm design-ul",
+    "processSteps": [
+      { "num": "01", "title": "Înțelegem afacerea ta", "desc": "Înainte de orice design, cunoaștem clienții tăi, concurența ta și ce te face diferit." },
+      { "num": "02", "title": "Definim structura", "desc": "Trasăm o hartă vizuală clară a site-ului: pagini, ierarhie și flux de conținut." },
+      { "num": "03", "title": "Proiectăm și ajustăm", "desc": "Creăm design-ul vizual împreună cu tine, îl ajustăm pe baza feedback-ului și îl pregătim pentru dezvoltare." }
+    ],
+    "moreServicesTitle": "Tot de la Aethos",
+    "cta": "Spune-ne despre proiectul tău",
+    "ctaSubtitle": "Spune-ne cum arată site-ul tău acum și cum vrei să fie."
+  },
+  "serviceDevelopment": {
+    "eyebrow": "Dezvoltare",
+    "h1": "Dezvoltare web rapidă, curată și pregătită să crească.",
+    "subtitle": "Transformăm idei și design-uri în site-uri funcționale, rapide, responsive și ușor de menținut.",
+    "problemTitle": "Un site trebuie să facă mai mult decât să arate bine",
+    "problemBody": "Multe site-uri arată bine în screenshot-uri, dar sunt lente, greu de editat, neprietenoase pe mobil sau incompatibile cu motoarele de căutare. Construim gândindu-ne la performanță și la viitor încă din prima zi.",
+    "whatWeBuild": "Ce dezvoltăm",
+    "buildItems": [
+      "Site-uri corporative",
+      "Landing page-uri",
+      "Pagini multilingve",
+      "Formulare și integrări",
+      "SEO tehnic inițial",
+      "Deployment și configurare",
+      "Mentenanță web"
+    ],
+    "whatChanges": "Ce se schimbă pentru afacerea ta",
+    "changesItems": [
+      "Site rapid și optimizat",
+      "Experiență mobilă mai bună",
+      "Structură pregătită pentru SEO",
+      "Cod curat și mentenabil",
+      "Mai puțină dependență de terți",
+      "Mai mult control asupra conținutului tău"
+    ],
+    "processTitle": "Cum dezvoltăm",
+    "processSteps": [
+      { "num": "01", "title": "Revizuim design-ul", "desc": "Lucrăm dintr-un design aprobat sau îl creăm noi, asigurând că fiecare detaliu este pregătit pentru dezvoltare." },
+      { "num": "02", "title": "Construim ordonat", "desc": "Scriem cod structurat și lizibil. Fără dependențe inutile, fără template-uri umflate." },
+      { "num": "03", "title": "Testăm și lansăm", "desc": "Testăm pe diferite dispozitive, configurăm domeniul tău și îți predăm controlul total al site-ului." }
+    ],
+    "moreServicesTitle": "Tot de la Aethos",
+    "cta": "Spune-ne despre proiectul tău",
+    "ctaSubtitle": "Spune-ne ce trebuie să construiești și îți explicăm cum putem aborda asta."
+  },
+  "serviceAutomation": {
+    "eyebrow": "Automatizare",
+    "h1": "Automatizări simple pentru a economisi timp și a organiza afacerea ta.",
+    "subtitle": "Creăm sisteme mici care reduc sarcinile repetitive, organizează solicitările și fac viața de zi cu zi mai ușoară.",
+    "problemTitle": "Mai puțin lucru manual",
+    "problemBody": "Dacă petreci timp copiind date din WhatsApp în foi de calcul, răspunzând la aceleași întrebări sau urmărind manual clienții potențiali — o automatizare simplă îți poate reda ore în fiecare săptămână.",
+    "whatWeAutomate": "Ce automatizăm",
+    "automateItems": [
+      "Răspunsuri automate",
+      "Formulare conectate",
+      "Notificări interne",
+      "Organizare lead-uri",
+      "Actualizări automate în foi de calcul",
+      "Emailuri de confirmare",
+      "Memento-uri",
+      "Panouri de urmărire de bază"
+    ],
+    "whatChanges": "Ce se schimbă pentru afacerea ta",
+    "changesItems": [
+      "Mai puțin lucru manual zilnic",
+      "Mai puține erori și lead-uri pierdute",
+      "Răspunsuri mai rapide pentru clienți",
+      "Informații mai organizate",
+      "Urmărire mai bună a clienților"
+    ],
+    "processTitle": "Cum construim automatizări",
+    "processSteps": [
+      { "num": "01", "title": "Cartografiem sarcinile repetitive", "desc": "Identificăm exact ce acțiuni îți consumă timp și care pot fi automatizate cu un flux simplu." },
+      { "num": "02", "title": "Construim un sistem simplu", "desc": "Creăm automatizarea folosind instrumente fiabile. Direct, fără inginerie excesivă." },
+      { "num": "03", "title": "Testăm cu date reale", "desc": "Rulăm fluxul cu cazuri reale pentru a ne asigura că totul funcționează corect înainte de predare." }
+    ],
+    "moreServicesTitle": "Tot de la Aethos",
+    "cta": "Spune-ne despre proiectul tău",
+    "ctaSubtitle": "Spune-ne ce sarcini îți consumă prea mult timp și îți arătăm ce putem face."
+  },
+  "work": {
+    "eyebrow": "Concepte de proiect",
+    "h1": "Idei de proiecte pe care le putem construi",
+    "subtitle": "Suntem încă în procesul de construire a portofoliului. Aceste exemple arată tipul de soluții pe care le creăm pentru afaceri reale.",
+    "conceptLabel": "Concept",
+    "cta": {
+      "title": "Gata să începi un proiect?",
+      "subtitle": "Spune-ne despre afacerea ta și îți arătăm ce este posibil.",
+      "button": "Începe un proiect"
+    },
+    "projects": [
+      {
+        "tag": "Afacere locală",
+        "title": "Site pentru o afacere locală",
+        "desc": "Un site clar și rapid axat pe a ajuta clienții să înțeleagă ce faci și să te contacteze ușor.",
+        "tags": ["Design web", "SEO de bază", "Contact"]
+      },
+      {
+        "tag": "Campanie",
+        "title": "Landing page pentru campanii",
+        "desc": "O pagină axată pe o ofertă, serviciu sau campanie specifică, proiectată pentru a transforma vizitele în solicitări.",
+        "tags": ["Landing page", "Conversie", "Formulare"]
+      },
+      {
+        "tag": "Solicitări",
+        "title": "Sistem de gestionare a solicitărilor",
+        "desc": "Un formular conectat la email, foaie de calcul sau instrument intern pentru ca nicio solicitare să nu se piardă.",
+        "tags": ["Formular", "Lead-uri", "Organizare"]
+      },
+      {
+        "tag": "Automatizare",
+        "title": "Automatizare simplă",
+        "desc": "Răspunsuri automate, confirmări sau alerte interne pentru a reduce sarcinile repetitive.",
+        "tags": ["Automatizare", "Email", "WhatsApp"]
+      },
+      {
+        "tag": "Panou",
+        "title": "Panou de urmărire de bază",
+        "desc": "O vizualizare simplă pentru a înțelege ce solicitări intră, de unde vin și care este statusul lor.",
+        "tags": ["Panou", "Date", "Organizare"]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Despre Aethos",
+    "h1": "Un studio digital mic, direct și practic.",
+    "subtitle": "Aethos Solutions a fost creat pentru a ajuta afacerile reale să își îmbunătățească prezența digitală fără complicații inutile.",
+    "body1": "Suntem o echipă mică cu profiluri complementare: dezvoltare, tehnologie, marketing, finanțe și viziune de afaceri. Lucrăm din Spania și România, cu o legătură directă între La Rioja și Alba Iulia.",
+    "body2": "Ne interesează să construim soluții utile, nu să vindem promisiuni goale. Site-uri clare, sisteme simple și automatizări care chiar ajută la activitatea de zi cu zi a unei afaceri.",
+    "body3": "Lucrăm în spaniolă, engleză și română și suntem pregătiți să colaborăm la proiecte cu orientare internațională.",
+    "imageCaption": "Studio mic, focus clar.",
+    "ctaButton": "Salut",
+    "stats": {
+      "founded": "Fondat",
+      "countries": "Țări",
+      "languages": "Limbi"
+    },
+    "approach": {
+      "title": "Ce ne diferențiază",
+      "subtitle": "Nu suntem o agenție mare. Suntem o echipă mică căreia îi pasă să construiască lucruri care chiar funcționează.",
+      "values": [
+        {
+          "title": "Înțelegem mai întâi",
+          "desc": "Nu începem cu tehnologia. Mai întâi înțelegem afacerea ta, situația ta și ce vrei să îmbunătățești."
+        },
+        {
+          "title": "Construim cu claritate",
+          "desc": "Soluții simple, vizuale și ușor de utilizat. Nimic complicat de dragul complicației."
+        },
+        {
+          "title": "Totul este al tău",
+          "desc": "Site-ul tău, domeniul tău, datele tale și conținutul tău. Fără dependențe sau surprize."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Vrei să lucrăm împreună?",
+      "subtitle": "Spune-ne despre afacerea ta. O conversație scurtă, fără presiune, și îți spunem sincer ce putem face.",
+      "button": "Ia legătura"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "h1": "Spune-ne ce vrei să construiești.",
+    "subtitle": "Spune-ne despre afacerea ta, ideea ta sau problema pe care vrei să o rezolvi. Îți răspundem cu o propunere clară pentru a începe.",
+    "whatHappensTitle": "Ce urmează",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Citim mesajul tău",
+        "desc": "În aceeași zi, de obicei în câteva ore."
+      },
+      {
+        "step": "2",
+        "title": "Răspundem cu o propunere",
+        "desc": "O schiță clară a ce am face și cum am aborda asta."
+      },
+      {
+        "step": "3",
+        "title": "Începem când ești gata",
+        "desc": "Fără presiune. Când decizi să mergi mai departe, ne apucăm de lucru."
+      }
+    ],
+    "otherWaysTitle": "Alte modalități de a ne contacta",
+    "emailLabel": "Email",
+    "responseLabel": "Timp de răspuns",
+    "responseValue": "În aceeași zi, de obicei în câteva ore",
+    "languagesLabel": "Limbi",
+    "languagesValue": "Română · Spaniolă · Engleză"
+  },
+  "form": {
+    "nameLabel": "Numele tău",
+    "namePlaceholder": "Ion Popescu",
+    "businessLabel": "Afacere sau companie",
+    "businessOptional": "(opțional)",
+    "businessPlaceholder": "Numele afacerii tale",
+    "emailLabel": "Adresa de email",
+    "emailPlaceholder": "ion@afacereatа.ro",
+    "messageLabel": "De ce ai nevoie?",
+    "messagePlaceholder": "Vreau să îmbunătățesc site-ul meu, să creez o landing page, să organizez solicitările sau să automatizez o parte din afacerea mea…",
+    "submit": "Trimite mesaj",
+    "submitting": "Se trimite…",
+    "successTitle": "Mesaj primit!",
+    "successBody": "Mulțumim că ne-ai scris. Vom citi mesajul tău astăzi și îți vom răspunde în câteva ore.",
+    "disclaimer": "Citim toate mesajele și răspundem în 24 de ore."
+  },
+  "privacy": {
+    "eyebrow": "Legal",
+    "h1": "Politica de Confidențialitate",
+    "updated": "Ultima actualizare: iunie 2026",
+    "intro": "Această pagină explică ce informații colectează Aethos Solutions atunci când vizitezi acest site sau ne contactezi și cum le folosim. Încercăm să păstrăm totul simplu, fără jargon juridic.",
+    "sections": [
+      {
+        "title": "Informații pe care le colectăm",
+        "body": "Când completezi formularul nostru de contact, colectăm informațiile pe care ni le oferi: numele tău, adresa de email, numele afacerii (dacă îl menționezi) și mesajul tău. Nu colectăm automat alte informații în afara celor pe care browserul tău le trimite pentru a încărca pagina."
+      },
+      {
+        "title": "Cum le folosim",
+        "body": "Folosim aceste informații doar pentru a răspunde solicitării tale și, dacă devii client, pentru a comunica despre proiectul tău. Nu vindem, nu închiriem și nu partajăm informațiile tale cu terți în scopuri de marketing."
+      },
+      {
+        "title": "Cookie-uri și urmărire",
+        "body": "Acest site nu folosește cookie-uri publicitare sau de urmărire. Nu folosim scripturi de analiză care creează profiluri ale vizitatorilor."
+      },
+      {
+        "title": "Păstrarea datelor",
+        "body": "Păstrăm mesajele și informațiile legate de proiecte atât timp cât este necesar pentru a-ți răspunde sau a livra un proiect, și le ștergem când nu mai sunt necesare."
+      },
+      {
+        "title": "Drepturile tale",
+        "body": "Ne poți cere oricând să accesăm, corectăm sau ștergem informațiile pe care le deținem despre tine. Trimite-ne un email și ne ocupăm de asta."
+      },
+      {
+        "title": "Contact",
+        "body": "Dacă ai întrebări despre această politică sau despre datele tale, scrie-ne la aethos.solutions@gmail.com."
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Legal",
+    "h1": "Termeni și Condiții",
+    "updated": "Ultima actualizare: iunie 2026",
+    "intro": "Acești termeni explică modul în care colaborăm și la ce te poți aștepta atunci când folosești acest site sau ne contactezi în legătură cu un proiect. Folosind acest site, ești de acord cu acești termeni.",
+    "sections": [
+      {
+        "title": "Despre acest site",
+        "body": "Conținutul acestui site este oferit ca informație generală despre Aethos Solutions și serviciile noastre. Proiectele afișate pe pagina Proiecte sunt concepte create pentru a ilustra tipul de soluții pe care le construim, nu lucrări finalizate pentru clienți, cu excepția cazului în care se specifică altfel."
+      },
+      {
+        "title": "Colaborarea cu noi",
+        "body": "Orice proiect pe care îl realizăm împreună va fi convenit separat, în scris, cu propriul domeniu de aplicare, termen și preț. Nimic de pe acest site nu constituie o ofertă sau un contract obligatoriu."
+      },
+      {
+        "title": "Proprietate intelectuală",
+        "body": "Odată ce un proiect este livrat și plătit, site-ul, codul și conținutul rezultate îți aparțin, cu excepția cazului în care convenim altfel în scris. Numele, logo-ul și materialele de brand Aethos Solutions rămân proprietatea noastră."
+      },
+      {
+        "title": "Utilizarea acestui site",
+        "body": "Ești binevenit să navighezi pe acest site și să ne contactezi. Te rugăm să nu îl folosești într-un mod care ar putea afecta, dezactiva sau interfera cu funcționarea sa."
+      },
+      {
+        "title": "Modificări ale acestor termeni",
+        "body": "Putem actualiza acești termeni din când în când. Cea mai recentă versiune va fi mereu disponibilă pe această pagină."
+      },
+      {
+        "title": "Contact",
+        "body": "Întrebările despre acești termeni pot fi trimise la aethos.solutions@gmail.com."
+      }
+    ]
+  }
+}

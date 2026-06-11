@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "title": "Aethos Solutions — Estudio digital para negocios que quieren crecer",
+    "description": "Diseñamos y construimos webs modernas, experiencias digitales y automatizaciones prácticas para pequeñas y medianas empresas, desde La Rioja, España.",
+    "services": {
+      "title": "Diseño Web, Desarrollo y Automatización | Aethos Solutions",
+      "description": "Servicios prácticos de diseño web, desarrollo y automatización para pequeñas y medianas empresas. Webs modernas, desarrollo rápido y automatizaciones sencillas que ahorran tiempo."
+    },
+    "serviceDesign": {
+      "title": "Servicios de Diseño Web | Aethos Solutions",
+      "description": "Diseño web que genera confianza desde el primer momento. Webs claras, modernas y orientadas a la conversión para pequeñas y medianas empresas."
+    },
+    "serviceDevelopment": {
+      "title": "Servicios de Desarrollo Web | Aethos Solutions",
+      "description": "Desarrollo web rápido, limpio y responsivo, preparado para crecer. Webs listas para SEO, fáciles de mantener y pensadas para el rendimiento."
+    },
+    "serviceAutomation": {
+      "title": "Servicios de Automatización para Negocios | Aethos Solutions",
+      "description": "Automatizaciones sencillas que ahorran tiempo y reducen el trabajo manual. Formularios conectados, respuestas automáticas, recordatorios y organización de leads para pequeños negocios."
+    },
+    "work": {
+      "title": "Proyectos y Conceptos | Aethos Solutions",
+      "description": "Descubre el tipo de webs, landing pages, automatizaciones y paneles que Aethos Solutions puede crear para tu negocio."
+    },
+    "about": {
+      "title": "Sobre Aethos Solutions | Estudio Digital en La Rioja, España",
+      "description": "Aethos Solutions es un estudio digital pequeño y directo que trabaja desde La Rioja, España y Alba Iulia, Rumanía. Creamos webs y automatizaciones prácticas para negocios reales."
+    },
+    "contact": {
+      "title": "Contacta con Aethos Solutions",
+      "description": "Cuéntanos tu negocio o proyecto. Respondemos con una propuesta clara, normalmente en pocas horas."
+    },
+    "privacy": {
+      "title": "Política de Privacidad | Aethos Solutions",
+      "description": "Cómo recopila, utiliza y protege Aethos Solutions tu información cuando visitas nuestra web o nos contactas."
+    },
+    "terms": {
+      "title": "Términos de Servicio | Aethos Solutions",
+      "description": "Las condiciones que se aplican al usar la web de Aethos Solutions o trabajar con nosotros en un proyecto."
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "servicesMenu": {
+      "design": "Diseño",
+      "development": "Desarrollo",
+      "automation": "Automatización"
+    },
+    "work": "Proyectos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "cta": "Empezar proyecto",
+    "langEN": "English",
+    "langES": "Español",
+    "langRO": "Română",
+    "darkMode": "Modo oscuro",
+    "lightMode": "Modo claro",
+    "menu": "Menú",
+    "closeMenu": "Cerrar menú",
+    "selectLanguage": "Seleccionar idioma"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Estudio digital · Est. 2025",
+      "h1": "Sistemas digitales que impulsan el crecimiento.",
+      "subtitle": "Diseñamos y construimos webs, productos digitales y automatizaciones para que las empresas ambiciosas trabajen mejor y crezcan más rápido.",
+      "cta1": "Empezar proyecto",
+      "cta2": "Ver proyectos",
+      "trust1": "Proceso claro",
+      "trust2": "Orientado a resultados",
+      "trust3": "Sin ataduras",
+      "servicesLine": "Estrategia · Diseño · Desarrollo · Automatización",
+      "scroll": "Desliza"
+    },
+    "mosaic": {
+      "eyebrow": "Lo que construimos",
+      "h2": "Tres servicios, una dirección clara",
+      "subtitle": "Diseño, desarrollo y automatización combinados para dar a tu negocio una presencia digital más sólida y funcional.",
+      "tile1Title": "Diseño",
+      "tile1Sub": "Identidad visual, experiencia y presencia online.",
+      "tile1Hover": "Diseñamos webs y experiencias digitales que generan confianza desde el primer momento.",
+      "tile2Title": "Desarrollo",
+      "tile2Sub": "Webs rápidas y limpias, preparadas para crecer.",
+      "tile2Hover": "Convertimos ideas y diseños en productos digitales reales: rápidos, responsivos y fáciles de mantener.",
+      "tile3Title": "Automatización",
+      "tile3Sub": "Menos trabajo repetitivo. Más tiempo para tu negocio.",
+      "tile3Hover": "Creamos automatizaciones sencillas para organizar solicitudes, responder más rápido y reducir el trabajo manual.",
+      "tile1Cta": "Ver Diseño",
+      "tile2Cta": "Ver Desarrollo",
+      "tile3Cta": "Ver Automatización"
+    },
+    "problems": {
+      "eyebrow": "Un problema habitual",
+      "h2": "Muchos negocios tienen el mismo problema: su presencia digital no refleja lo que realmente valen.",
+      "subtitle": "Una web antigua, mensajes dispersos o procesos manuales hacen que pierdas oportunidades sin darte cuenta.",
+      "items": [
+        {
+          "title": "Tu web no genera confianza",
+          "body": "Si la primera impresión falla, muchos clientes se van antes de contactarte."
+        },
+        {
+          "title": "Tus solicitudes están dispersas",
+          "body": "WhatsApp, email, formularios, llamadas — todo mezclado y difícil de seguir."
+        },
+        {
+          "title": "No te encuentran cuando buscan",
+          "body": "Si no apareces en Google, estás dejando espacio a tu competencia."
+        },
+        {
+          "title": "Pierdes tiempo en tareas repetitivas",
+          "body": "Responder las mismas preguntas, confirmar citas, enviar recordatorios, copiar datos a mano."
+        },
+        {
+          "title": "Tu negocio parece menos profesional de lo que es",
+          "body": "Una presencia online descuidada puede hacer que un buen negocio no inspire confianza."
+        },
+        {
+          "title": "No tienes un sistema claro",
+          "body": "Cuando todo depende de la memoria, notas sueltas o hojas de cálculo, algo siempre se pierde."
+        }
+      ]
+    },
+    "beforeAfter": {
+      "eyebrow": "La diferencia",
+      "h2Without": "Sin Aethos",
+      "h2With": "Con Aethos",
+      "subtitle": "La diferencia no está solo en tener una web. Está en tener una presencia digital clara, profesional y pensada para funcionar.",
+      "withoutItems": [
+        "Web antigua o inexistente",
+        "Mensajes repartidos entre WhatsApp, email y llamadas",
+        "Formularios que nadie revisa",
+        "Poca visibilidad en Google",
+        "Tareas repetitivas todos los días",
+        "Sensación poco profesional"
+      ],
+      "withItems": [
+        "Web moderna y clara",
+        "Solicitudes organizadas",
+        "Formularios conectados",
+        "Mejor presencia online",
+        "Automatizaciones simples",
+        "Imagen profesional desde el primer vistazo"
+      ]
+    },
+    "howWeWork": {
+      "eyebrow": "Cómo trabajamos",
+      "h2": "Un proceso claro desde la primera conversación",
+      "subtitle": "Sin reuniones innecesarias, sin entregas complicadas. Solo un proceso directo y enfocado.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Entendemos tu negocio",
+          "desc": "Analizamos qué haces, qué necesitas y qué está frenando tu presencia digital."
+        },
+        {
+          "num": "02",
+          "title": "Diseñamos una solución clara",
+          "desc": "Proponemos una estructura sencilla y visual pensada para que el usuario tome acción."
+        },
+        {
+          "num": "03",
+          "title": "Construimos y ajustamos",
+          "desc": "Creamos la web o sistema, lo revisamos contigo y dejamos todo listo para lanzar."
+        },
+        {
+          "num": "04",
+          "title": "Te damos el control",
+          "desc": "Tu dominio, tu web, tus datos. Todo tuyo. Sin ataduras."
+        }
+      ]
+    },
+    "work": {
+      "eyebrow": "Ideas de proyectos",
+      "h2": "Ideas de proyectos que podemos construir",
+      "subtitle": "Todavía estamos construyendo nuestro portfolio. Estos ejemplos muestran el tipo de soluciones que creamos para negocios reales.",
+      "viewAll": "Ver todos los conceptos"
+    },
+    "cta": {
+      "eyebrow": "Hablemos",
+      "h2": "Dale a tu negocio una presencia digital más clara, moderna y profesional.",
+      "subtitle": "Cuéntanos qué tienes ahora, qué quieres mejorar y qué resultado buscas. Te ayudamos a convertirlo en una solución concreta.",
+      "cta1": "Cuéntanos tu proyecto",
+      "cta2": "Ver servicios"
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "h2": "Preguntas frecuentes",
+      "subtitle": "Algunas respuestas honestas antes de escribirnos.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un proyecto?",
+          "a": "Depende de lo que necesites — una landing page sencilla es muy diferente a una web completa con automatizaciones. Cuéntanos tu proyecto y te daremos un presupuesto claro antes de cualquier compromiso."
+        },
+        {
+          "q": "¿Cuánto tiempo lleva un proyecto?",
+          "a": "La mayoría de las webs tardan entre dos y cuatro semanas desde la primera conversación hasta el lanzamiento, dependiendo del alcance y de la rapidez con la que recibimos contenido y feedback. Las automatizaciones suelen ser más rápidas."
+        },
+        {
+          "q": "¿Sois una agencia o autónomos?",
+          "a": "Somos un estudio pequeño — un equipo enfocado, no una gran agencia. Eso significa comunicación directa con las personas que realmente hacen el trabajo, sin capas innecesarias."
+        },
+        {
+          "q": "¿Seré dueño de mi web y mis datos?",
+          "a": "Sí. Tu dominio, tu web, tus datos y tu contenido son tuyos. No te encerramos en plataformas propietarias ni suscripciones ocultas."
+        },
+        {
+          "q": "¿Ofrecéis soporte después del lanzamiento?",
+          "a": "Sí. Ofrecemos mantenimiento y soporte después del lanzamiento, y estamos encantados de hacer cambios o mejoras a medida que tu negocio crece."
+        },
+        {
+          "q": "¿Trabajáis con negocios fuera de España?",
+          "a": "Sí. Trabajamos en español, inglés y rumano, y colaboramos con clientes de España, Rumanía y otros países — la mayor parte de nuestro trabajo es remoto."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Webs modernas, experiencias digitales y automatizaciones prácticas para negocios que quieren crecer.",
+    "studioLabel": "Estudio",
+    "servicesLabel": "Servicios",
+    "startConversation": "Iniciar una conversación",
+    "copyright": "© {year} Aethos Solutions. La Rioja y Alba Iulia.",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "links": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "work": "Proyectos",
+      "about": "Nosotros",
+      "contact": "Contacto",
+      "design": "Diseño",
+      "development": "Desarrollo",
+      "automation": "Automatización"
+    }
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "h1": "Servicios digitales para que tu negocio se vea mejor y funcione mejor.",
+    "subtitle": "Diseño, desarrollo y automatización combinados para crear soluciones claras, útiles y preparadas para crecer.",
+    "ctaHero": "Cuéntanos tu proyecto",
+    "pillar1Title": "Diseño",
+    "pillar1Text": "Identidad visual, estructura y experiencia digital pensada para generar confianza desde el primer vistazo.",
+    "pillar1Cta": "Ver Diseño",
+    "pillar2Title": "Desarrollo",
+    "pillar2Text": "Webs rápidas, limpias y responsivas preparadas para SEO y para crecer.",
+    "pillar2Cta": "Ver Desarrollo",
+    "pillar3Title": "Automatización",
+    "pillar3Text": "Sistemas sencillos que reducen tareas repetitivas y organizan tu negocio.",
+    "pillar3Cta": "Ver Automatización",
+    "whatIncluded": "Qué puede incluir tu proyecto",
+    "includedItems": [
+      "Web corporativa",
+      "Landing page",
+      "SEO básico",
+      "Formularios inteligentes",
+      "Integración con email o WhatsApp",
+      "Organización de leads",
+      "Automatizaciones simples",
+      "Paneles básicos",
+      "Mantenimiento web"
+    ],
+    "notSure": {
+      "title": "¿No sabes qué servicios necesitas?",
+      "subtitle": "Cuéntanos tu negocio y te sugerimos exactamente lo que tiene sentido para donde estás ahora.",
+      "cta": "Iniciar una conversación"
+    }
+  },
+  "serviceDesign": {
+    "eyebrow": "Diseño",
+    "h1": "Diseño web para negocios que quieren transmitir confianza.",
+    "subtitle": "Diseñamos webs claras, modernas y pensadas para que tus clientes entiendan rápido quién eres, qué ofreces y cómo contactarte.",
+    "problemTitle": "La primera impresión importa",
+    "problemBody": "Una web que parece antigua, confusa o descuidada aleja a los clientes antes de que lleguen a contactarte. El diseño no es solo estética — es lo primero que comunica tu negocio.",
+    "whatWeDesign": "Qué diseñamos",
+    "designItems": [
+      "Estructura y arquitectura de páginas",
+      "Experiencia de usuario y navegación",
+      "Estilo visual e identidad de marca",
+      "Páginas responsivas para móvil",
+      "Contenido orientado a la conversión",
+      "Diseño preparado para SEO"
+    ],
+    "whatChanges": "Qué cambia en tu negocio",
+    "changesItems": [
+      "Mejor primera impresión",
+      "Navegación más clara y fluida",
+      "Más confianza desde el primer vistazo",
+      "Contacto más fácil para los clientes",
+      "Imagen más profesional"
+    ],
+    "processTitle": "Cómo trabajamos el diseño",
+    "processSteps": [
+      { "num": "01", "title": "Entendemos tu negocio", "desc": "Antes de diseñar nada, conocemos a tus clientes, tu competencia y lo que te hace diferente." },
+      { "num": "02", "title": "Definimos la estructura", "desc": "Trazamos un mapa visual claro de la web: páginas, jerarquía y flujo de contenido." },
+      { "num": "03", "title": "Diseñamos y ajustamos", "desc": "Creamos el diseño visual contigo, lo ajustamos con tu feedback y lo dejamos listo para desarrollo." }
+    ],
+    "moreServicesTitle": "También de Aethos",
+    "cta": "Cuéntanos tu proyecto",
+    "ctaSubtitle": "Cuéntanos cómo es tu web ahora y cómo quieres que sea."
+  },
+  "serviceDevelopment": {
+    "eyebrow": "Desarrollo",
+    "h1": "Desarrollo web rápido, limpio y preparado para crecer.",
+    "subtitle": "Convertimos ideas y diseños en webs funcionales, rápidas, responsivas y fáciles de mantener.",
+    "problemTitle": "Una web no solo tiene que verse bien",
+    "problemBody": "Muchas webs tienen buen aspecto en una captura pero son lentas, difíciles de editar, no están bien en móvil o son incompatibles con los motores de búsqueda. Desarrollamos pensando en el rendimiento y en el futuro desde el primer día.",
+    "whatWeBuild": "Qué desarrollamos",
+    "buildItems": [
+      "Webs corporativas",
+      "Landing pages",
+      "Páginas multilingüe",
+      "Formularios e integraciones",
+      "SEO técnico inicial",
+      "Despliegue y configuración",
+      "Mantenimiento web"
+    ],
+    "whatChanges": "Qué cambia en tu negocio",
+    "changesItems": [
+      "Web rápida y optimizada",
+      "Mejor experiencia en móvil",
+      "Estructura preparada para SEO",
+      "Código limpio y mantenible",
+      "Menos dependencia de terceros",
+      "Más control sobre tu contenido"
+    ],
+    "processTitle": "Cómo desarrollamos",
+    "processSteps": [
+      { "num": "01", "title": "Revisamos el diseño", "desc": "Trabajamos desde un diseño aprobado o lo creamos nosotros, asegurándonos de que cada detalle esté listo para desarrollar." },
+      { "num": "02", "title": "Construimos con orden", "desc": "Escribimos código estructurado y legible. Sin dependencias innecesarias, sin plantillas infladas." },
+      { "num": "03", "title": "Probamos y lanzamos", "desc": "Testamos en diferentes dispositivos, configuramos tu dominio y te entregamos el control total de tu web." }
+    ],
+    "moreServicesTitle": "También de Aethos",
+    "cta": "Cuéntanos tu proyecto",
+    "ctaSubtitle": "Cuéntanos qué necesitas construir y te explicamos cómo podemos abordarlo."
+  },
+  "serviceAutomation": {
+    "eyebrow": "Automatización",
+    "h1": "Automatizaciones sencillas para ahorrar tiempo y ordenar tu negocio.",
+    "subtitle": "Creamos pequeños sistemas que reducen tareas repetitivas, organizan solicitudes y hacen que tu día a día sea más fácil.",
+    "problemTitle": "Menos tareas manuales",
+    "problemBody": "Si pasas tiempo copiando datos de WhatsApp a hojas de cálculo, respondiendo las mismas preguntas o haciendo seguimiento de clientes a mano — una automatización sencilla puede devolverte horas cada semana.",
+    "whatWeAutomate": "Qué automatizamos",
+    "automateItems": [
+      "Respuestas automáticas",
+      "Formularios conectados",
+      "Notificaciones internas",
+      "Organización de leads",
+      "Actualizaciones automáticas en hojas de cálculo",
+      "Emails de confirmación",
+      "Recordatorios",
+      "Paneles básicos de seguimiento"
+    ],
+    "whatChanges": "Qué cambia en tu negocio",
+    "changesItems": [
+      "Menos trabajo manual cada día",
+      "Menos errores y leads perdidos",
+      "Respuestas más rápidas a clientes",
+      "Información más organizada",
+      "Mejor seguimiento de clientes"
+    ],
+    "processTitle": "Cómo creamos automatizaciones",
+    "processSteps": [
+      { "num": "01", "title": "Mapeamos las tareas repetitivas", "desc": "Identificamos qué acciones te consumen tiempo y cuáles se pueden automatizar con un flujo sencillo." },
+      { "num": "02", "title": "Construimos un sistema simple", "desc": "Creamos la automatización con herramientas fiables. Sin sobreingeniería." },
+      { "num": "03", "title": "Probamos con datos reales", "desc": "Ejecutamos el flujo con casos reales para asegurarnos de que todo funciona bien antes de entregarlo." }
+    ],
+    "moreServicesTitle": "También de Aethos",
+    "cta": "Cuéntanos tu proyecto",
+    "ctaSubtitle": "Cuéntanos qué tareas te quitan demasiado tiempo y te mostramos lo que podemos hacer."
+  },
+  "work": {
+    "eyebrow": "Conceptos de proyecto",
+    "h1": "Ideas de proyectos que podemos construir",
+    "subtitle": "Todavía estamos construyendo nuestro portfolio. Estos ejemplos muestran el tipo de soluciones que creamos para negocios reales.",
+    "conceptLabel": "Concepto",
+    "cta": {
+      "title": "¿Listo para empezar un proyecto?",
+      "subtitle": "Cuéntanos tu negocio y te mostramos qué es posible.",
+      "button": "Empezar proyecto"
+    },
+    "projects": [
+      {
+        "tag": "Negocio local",
+        "title": "Web para negocio local",
+        "desc": "Una web clara y rápida centrada en ayudar al cliente a entender qué haces y contactarte fácilmente.",
+        "tags": ["Diseño web", "SEO básico", "Contacto"]
+      },
+      {
+        "tag": "Campaña",
+        "title": "Landing page para campañas",
+        "desc": "Una página enfocada en una oferta, servicio o campaña específica, diseñada para convertir visitas en solicitudes.",
+        "tags": ["Landing page", "Conversión", "Formularios"]
+      },
+      {
+        "tag": "Solicitudes",
+        "title": "Sistema de gestión de solicitudes",
+        "desc": "Un formulario conectado a email, hoja de cálculo o herramienta interna para que no se pierda ninguna solicitud.",
+        "tags": ["Formulario", "Leads", "Organización"]
+      },
+      {
+        "tag": "Automatización",
+        "title": "Automatización sencilla",
+        "desc": "Respuestas automáticas, confirmaciones o alertas internas para reducir tareas repetitivas.",
+        "tags": ["Automatización", "Email", "WhatsApp"]
+      },
+      {
+        "tag": "Panel",
+        "title": "Panel básico de seguimiento",
+        "desc": "Una vista sencilla para entender qué solicitudes entran, de dónde vienen y cuál es su estado.",
+        "tags": ["Panel", "Datos", "Organización"]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Sobre Aethos",
+    "h1": "Un estudio digital pequeño, directo y práctico.",
+    "subtitle": "Aethos Solutions nació para ayudar a negocios reales a mejorar su presencia digital sin complicaciones innecesarias.",
+    "body1": "Somos un equipo pequeño con perfiles complementarios: desarrollo, tecnología, marketing, finanzas y visión de negocio. Trabajamos desde España y Rumanía, con conexión directa entre La Rioja y Alba Iulia.",
+    "body2": "Nos interesa construir soluciones útiles, no vender humo. Webs claras, sistemas simples y automatizaciones que de verdad ayuden al día a día de un negocio.",
+    "body3": "Trabajamos en español, inglés y rumano, y estamos preparados para colaborar en proyectos con enfoque internacional.",
+    "imageCaption": "Estudio pequeño, enfoque claro.",
+    "ctaButton": "Di hola",
+    "stats": {
+      "founded": "Fundado",
+      "countries": "Países",
+      "languages": "Idiomas"
+    },
+    "approach": {
+      "title": "Qué nos diferencia",
+      "subtitle": "No somos una gran agencia. Somos un equipo pequeño al que le importa construir cosas que de verdad funcionan.",
+      "values": [
+        {
+          "title": "Primero entendemos",
+          "desc": "No empezamos con tecnología. Primero entendemos tu negocio, tu situación y qué quieres mejorar."
+        },
+        {
+          "title": "Construimos con claridad",
+          "desc": "Soluciones simples, visuales y fáciles de usar. Nada complicado por el gusto de complicar."
+        },
+        {
+          "title": "Todo es tuyo",
+          "desc": "Tu web, tu dominio, tus datos y tu contenido. Sin ataduras ni sorpresas."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Quieres trabajar con nosotros?",
+      "subtitle": "Cuéntanos tu negocio. Una conversación corta, sin presión, y te decimos con honestidad qué podemos hacer.",
+      "button": "Ponerse en contacto"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "h1": "Cuéntanos qué quieres construir.",
+    "subtitle": "Cuéntanos tu negocio, tu idea o el problema que quieres resolver. Te respondemos con una propuesta clara para empezar.",
+    "whatHappensTitle": "Qué pasa después",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Leemos tu mensaje",
+        "desc": "El mismo día, normalmente en pocas horas."
+      },
+      {
+        "step": "2",
+        "title": "Respondemos con una propuesta",
+        "desc": "Un esquema claro de lo que haríamos y cómo lo abordaríamos."
+      },
+      {
+        "step": "3",
+        "title": "Empezamos cuando estés listo",
+        "desc": "Sin presión. Cuando decides seguir adelante, nos ponemos a trabajar."
+      }
+    ],
+    "otherWaysTitle": "Otras formas de contactarnos",
+    "emailLabel": "Email",
+    "responseLabel": "Tiempo de respuesta",
+    "responseValue": "El mismo día, normalmente en pocas horas",
+    "languagesLabel": "Idiomas",
+    "languagesValue": "Español · Inglés · Rumano"
+  },
+  "form": {
+    "nameLabel": "Tu nombre",
+    "namePlaceholder": "María García",
+    "businessLabel": "Negocio o empresa",
+    "businessOptional": "(opcional)",
+    "businessPlaceholder": "Nombre de tu negocio",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "maria@tunegocio.com",
+    "messageLabel": "¿Qué necesitas?",
+    "messagePlaceholder": "Quiero mejorar mi web, crear una landing page, organizar solicitudes o automatizar parte de mi negocio…",
+    "submit": "Enviar mensaje",
+    "submitting": "Enviando…",
+    "successTitle": "¡Mensaje recibido!",
+    "successBody": "Gracias por escribirnos. Leeremos tu mensaje hoy y te responderemos en pocas horas.",
+    "disclaimer": "Leemos todos los mensajes y respondemos en menos de 24 horas."
+  },
+  "privacy": {
+    "eyebrow": "Legal",
+    "h1": "Política de Privacidad",
+    "updated": "Última actualización: junio de 2026",
+    "intro": "Esta página explica qué información recopila Aethos Solutions cuando visitas esta web o nos contactas, y cómo la utilizamos. Intentamos mantenerlo sencillo y sin tecnicismos legales.",
+    "sections": [
+      {
+        "title": "Información que recopilamos",
+        "body": "Cuando rellenas nuestro formulario de contacto, recopilamos la información que nos proporcionas: tu nombre, correo electrónico, nombre de tu negocio (si lo indicas) y tu mensaje. No recopilamos información automáticamente más allá de lo que tu navegador envía para cargar la página."
+      },
+      {
+        "title": "Cómo la utilizamos",
+        "body": "Usamos esta información solo para responder a tu consulta y, si te conviertes en cliente, para comunicarnos sobre tu proyecto. No vendemos, alquilamos ni compartimos tu información con terceros con fines de marketing."
+      },
+      {
+        "title": "Cookies y seguimiento",
+        "body": "Esta web no utiliza cookies publicitarias ni de seguimiento. No utilizamos scripts de analítica que perfilen a los visitantes."
+      },
+      {
+        "title": "Conservación de datos",
+        "body": "Conservamos los mensajes y la información relacionada con proyectos durante el tiempo necesario para responderte o entregar un proyecto, y la eliminamos cuando ya no es necesaria."
+      },
+      {
+        "title": "Tus derechos",
+        "body": "Puedes pedirnos en cualquier momento acceder, corregir o eliminar la información que tenemos sobre ti. Solo escríbenos un correo y nos encargamos de ello."
+      },
+      {
+        "title": "Contacto",
+        "body": "Si tienes alguna pregunta sobre esta política o tus datos, escríbenos a aethos.solutions@gmail.com."
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Legal",
+    "h1": "Términos de Servicio",
+    "updated": "Última actualización: junio de 2026",
+    "intro": "Estos términos explican cómo trabajamos juntos y qué puedes esperar al usar esta web o contactar con Aethos Solutions sobre un proyecto. Al usar esta web, aceptas estos términos.",
+    "sections": [
+      {
+        "title": "Sobre esta web",
+        "body": "El contenido de esta web se ofrece como información general sobre Aethos Solutions y nuestros servicios. Los proyectos mostrados en la página de Trabajo son conceptos creados para ilustrar el tipo de soluciones que construimos, no trabajos finalizados para clientes, salvo que se indique lo contrario."
+      },
+      {
+        "title": "Trabajar con nosotros",
+        "body": "Cualquier proyecto que realicemos juntos se acordará por separado, por escrito, con su propio alcance, plazo y precio. Nada en esta web constituye una oferta o contrato vinculante."
+      },
+      {
+        "title": "Propiedad intelectual",
+        "body": "Una vez entregado y pagado un proyecto, la web, el código y el contenido resultantes son tuyos, salvo que acordemos lo contrario por escrito. El nombre, el logotipo y los materiales de marca de Aethos Solutions siguen siendo de nuestra propiedad."
+      },
+      {
+        "title": "Uso de esta web",
+        "body": "Eres bienvenido a navegar por esta web y contactarnos. Por favor, no la uses de forma que pueda dañar, deshabilitar o interferir con su funcionamiento."
+      },
+      {
+        "title": "Cambios en estos términos",
+        "body": "Podemos actualizar estos términos de vez en cuando. La versión más reciente estará siempre disponible en esta página."
+      },
+      {
+        "title": "Contacto",
+        "body": "Las preguntas sobre estos términos pueden enviarse a aethos.solutions@gmail.com."
+      }
+    ]
+  }
+}
